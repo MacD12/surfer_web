@@ -1193,6 +1193,72 @@
       "horseback": "Reiten in Tamraght",
       "skateboarding": "Skateboarden in Tamraght"
     }
-  }
+  },
 
+  "countryPackages": {
+    "includedHeading": "Folgendes ist im Paket enthalten",
+    "cta": "JETZT BUCHEN",
+    "packages": {
+      "moderate": {
+        "title": "Surfkurs-Paket (Moderat)",
+        "subtitle": "Anfänger, Level 01 / Level 02 / Fortgeschrittene",
+        "description": "ODER Moderates Surf-Guiding – Fortgeschrittene",
+        "features": [
+          "07 Übernachtungen",
+          "06 Surflektionen oder Guiding-Sessions",
+          "Surftheorie",
+          "Täglich Frühstück",
+          "06 Abendessen, inkl. spezieller Buffetabende",
+          "02 kostenlose Yoga-Einheiten",
+          "Kostenloser Transport zu verschiedenen Surfspots",
+          "Kostenlose Nutzung der Surfboards während der Sessions",
+          "Kleingruppenunterricht, max. 6 Personen pro Gruppe",
+          "Tägliche soziale & Spaß-Aktivitäten"
+        ]
+      },
+      "full": {
+        "title": "Surfkurs-Paket (Voll)",
+        "subtitle": "Anfänger, Level 01 / Level 02 / Fortgeschrittene",
+        "description": "ODER Komplettes Surf-Guiding – Fortgeschrittene Surfer",
+        "features": [
+          "07 Übernachtungen",
+          "11 Surflektionen oder Guiding-Sessions",
+          "Surftheorie",
+          "Täglich Frühstück",
+          "06 Abendessen, inkl. spezieller Buffetabende",
+          "02 kostenlose Yoga-Einheiten",
+          "Kostenloser Transport zu verschiedenen Surfspots",
+          "Kostenlose Nutzung der Surfboards während der Sessions",
+          "Kleingruppenunterricht, max. 6 Personen pro Gruppe",
+          "Tägliche soziale & Spaß-Aktivitäten"
+        ]
+      },
+      "surfYoga": {
+        "title": "Surf- und Yoga-Paket",
+        "subtitle": "Surfunterricht ODER Surf-Guiding mit Yoga",
+        "description": "",
+        "features": [
+          "07 Übernachtungen",
+          "Tägliches Yoga morgens oder abends",
+          "06 Surflektionen oder Guiding-Sessions",
+          "Surftheorie",
+          "Täglich Frühstück",
+          "06 Abendessen, inkl. spezieller Buffetabende",
+          "Kostenloser Transport zu verschiedenen Surfspots",
+          "Kostenlose Nutzung der Surfboards während der Sessions",
+          "Kleingruppenunterricht, max. 6 Personen pro Gruppe",
+          "Tägliche soziale & Spaß-Aktivitäten"
+        ]
+      }
+    }
+  },
+  
+  "surfingJourney1": {
+    "title": "Unterschied zwischen Beach Camp und TS2 Camp",
+    "body": {
+      "l1": "Der Hauptunterschied ist der Standort und der Zimmerstandard!",
+      "l2": "Das Beach Camp liegt direkt am Strand und hat einen Pool. Die TS2-Zimmer sind einfache, zweckmäßige Privatzimmer mit Ventilator und eigenem Bad mit Warmwasser. Die Zimmer im Beach Camp sind Standard-Privatzimmer mit Klimaanlage, eigenem Bad und Warmwasser. Das TS2 Camp liegt etwa 5 Minuten Fahrt vom Beach Camp entfernt. Auch wenn du TS2 Weligama buchst, finden all deine Surfstunden, Yoga, Abendessen und Events im Beach Camp statt! Als Transportausgleich werden 1000 Rupien pro Tag und pro Zimmer bzw. Bett gezahlt, um zwischen den Camps zu pendeln. Du kannst den ganzen Tag im Beach Camp verbringen und zum Schlafen einfach ins TS2 zurückkehren!"
+    },
+    "bookNow": "Jetzt buchen"
+  }
 }

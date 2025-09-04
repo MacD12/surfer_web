@@ -1,7 +1,10 @@
 import React from 'react'
 import { motion } from 'framer-motion'
+import { useTranslation } from 'react-i18next'
 
 const SurfingJourney = () => {
+  const { t } = useTranslation();
+
   return (
     <motion.div 
       className='flex flex-col items-center justify-center container mx-2 sm:mx-4 md:mx-auto w-full overflow-hidden mt-[-2rem] sm:mt-[-3rem]' 
@@ -18,7 +21,7 @@ const SurfingJourney = () => {
         transition={{ duration: 0.4, delay: 0.2, ease: "easeOut" }}
         viewport={{ once: true, amount: 0.5 }}
       >
-        Difference between Beach Camp And Ts2 Camp
+        {t('surfingJourney1.title')}
       </motion.h1>
       
       <motion.p 
@@ -28,17 +31,23 @@ const SurfingJourney = () => {
         transition={{ duration: 0.4, delay: 0.2, ease: "easeOut" }}
         viewport={{ once: true, amount: 0.5 }}
       >
-        Main difference is the location and the room Standard !<br />
-        Beach camp located right next to the beach With swim pool, TS2 camp rooms are With Basic standard simple private rooms With Fan and
-        hot water ensuite bathroom Beach camp rooms are Standard private rooms with air conditioning, ensuite bathroom and hot water ! TS2
-        camp located 05 minutes ride away from the beach camp, even though you book TS2 weligama , all your surf lessons, Yoga, dinner and all
-        events Will be taken place at the beach camp ! 1000 rupees per day will be paid per room and per dormitory as a transport compensation
-        to travel between the camps! You can basically spend all ur day at the beach camp and just go for sleep at TS2 camp !      
+        {t('surfingJourney1.body.l1')}<br />
+        {t('surfingJourney1.body.l2')}
       </motion.p>
 
-        <div className='flex justify-center w-full mt-4 sm:mt-6 mb-3 sm:mb-4'>
-        </div>
+      <div className='flex justify-center w-full mt-4 sm:mt-6 mb-3 sm:mb-4'>
+      </div>
 
+      <div className='flex justify-center w-full mt-3 mb-2'> 
+        <a
+          className="px-2 py-1 text-sm font-medium border border-black rounded-full text-black hover:bg-gray-100 hover:scale-105 transition-transform duration-300" 
+          href="https://main.d7z80586kqd0r.amplifyapp.com/" 
+          target="_blank"
+          rel="noreferrer"
+        > 
+          {t('surfingJourney1.bookNow')}
+        </a> 
+      </div>
     </motion.div>
   )
 }

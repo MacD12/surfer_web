@@ -1188,7 +1188,73 @@
       "horseback": "Horseback Riding in Tamraght",
       "skateboarding": "Skateboarding in Tamraght"
     }
-  }
+  },
 
+  "countryPackages": {
+    "includedHeading": "Following Included in the package",
+    "cta": "BOOK NOW",
+    "packages": {
+      "moderate": {
+        "title": "Moderate Surf Lesson Package",
+        "subtitle": "Beginners, Level 01 / Level 02 / Intermediate",
+        "description": "OR MODERATE SURF GUIDING Advanced",
+        "features": [
+          "07 nights accommodation",
+          "06 surf lessons or guiding sessions",
+          "Surf Theory",
+          "Everyday Breakfast",
+          "06 Dinners Including Special Buffet Dinners",
+          "02 Complimentary Yoga Sessions",
+          "Free Transport To Different Surf Spots",
+          "Free Use Of Surf Boards During Surf Sessions",
+          "Small Groups Surf Teaching 6ppl Max per Group",
+          "Daily Social Fun Activities"
+        ]
+      },
+      "full": {
+        "title": "Full Surf Lesson Package",
+        "subtitle": "Beginners, Level 01 / Level 02 / Intermediate",
+        "description": "OR FULL SURF GUIDING PACKAGE Advanced Surfers",
+        "features": [
+          "07 nights accommodation",
+          "11 surf lessons or guiding sessions",
+          "Surf Theory",
+          "Everyday Breakfast",
+          "06 Dinners Including Special Buffet Dinners",
+          "02 Complimentary Yoga Sessions",
+          "Free Transport To Different Surf Spots",
+          "Free Use Of Surf Boards During Surf Sessions",
+          "Small Groups Surf Teaching 6ppl Max per Group",
+          "Daily Social Fun Activities"
+        ]
+      },
+      "surfYoga": {
+        "title": "Surf and Yoga Package",
+        "subtitle": "Surf Lessons OR Surf Guiding with Yoga",
+        "description": "",
+        "features": [
+          "07 nights accommodation",
+          "Morning or evening everyday yoga",
+          "06 surf lessons or guiding sessions",
+          "Surf Theory",
+          "Everyday Breakfast",
+          "06 Dinners Including Special Buffet Dinners",
+          "Free Transport To Different Surf Spots",
+          "Free Use Of Surf Boards During Surf Sessions",
+          "Small Groups Surf Teaching 6ppl Max per Group",
+          "Daily Social Fun Activities"
+        ]
+      }
+    }
+  },
+
+  "surfingJourney1": {
+    "title": "Difference between Beach Camp And Ts2 Camp",
+    "body": {
+      "l1": "Main difference is the location and the room Standard !",
+      "l2": "Beach camp located right next to the beach With swim pool, TS2 camp rooms are With Basic standard simple private rooms With Fan and hot water ensuite bathroom Beach camp rooms are Standard private rooms with air conditioning, ensuite bathroom and hot water ! TS2 camp located 05 minutes ride away from the beach camp, even though you book TS2 weligama , all your surf lessons, Yoga, dinner and all events Will be taken place at the beach camp ! 1000 rupees per day will be paid per room and per dormitory as a transport compensation to travel between the camps! You can basically spend all ur day at the beach camp and just go for sleep at TS2 camp !"
+    },
+    "bookNow": "Book Now"
+  }
 
 }
