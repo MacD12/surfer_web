@@ -918,14 +918,9 @@
     },
     "awardNote": "Proudly recognized by Tripadvisor for 5 consecutive years for outstanding service and guest satisfaction."
   },
-  "nav": {
-    "aria": {
-      "main": "Main navigation",
-      "home": "Go to home",
-      "toggleMenu": "Toggle mobile menu",
-      "destinationMenu": "Destination menu",
-      "language": "Change language"
-    },
+  
+  
+  "navbar": {
     "home": "HOME",
     "destination": "DESTINATION",
     "activities": "ACTIVITIES",
@@ -934,16 +929,21 @@
     "blogs": "BLOGS",
     "contact": "CONTACT",
     "bookNow": "BOOK NOW",
-    "sections": {
-      "countries": "COUNTRIES",
-      "originals": "THE SURFER ORIGINAL CAMPS",
-      "partner": "THE SURFER PARTNERED CAMP"
-    },
+    "countriesTitle": "COUNTRIES",
+    "originalsTitle": "THE SURFER ORIGINAL CAMPS",
+    "partnersTitle": "THE SURFER PARTNERED CAMP",
     "countries": {
       "srilanka": "Surf Camps Sri Lanka",
       "morocco": "Surf Camps Morocco"
+    },
+    "camps": {
+      "beachCamp": "The Surfer Beach Camp",
+      "ts2Camp": "The Surfer TS2 Camp",
+      "waveCampComing": "Coming Soon: The Wave Surf Camp",
+      "styleCamp": "The Surfer SurfStyle"
     }
   },
+  
   "blogs": {
     "heading": "BLOGS",
     "aria": {
@@ -981,5 +981,10 @@
         "ariaLabel": "Open blog post: What are surfboard fins — and how many types are there?"
       }
     ]
+  },
+
+  "faqPage": {
+    "metaTitle": "FAQ - The Surfer",
+    "heading": "FAQ"
   }
 }

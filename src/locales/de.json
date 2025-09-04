@@ -922,14 +922,8 @@
     "awardNote": "Seit 5 Jahren in Folge von Tripadvisor für herausragenden Service und Gästetzufriedenheit ausgezeichnet."
   },
 
-  "nav": {
-    "aria": {
-      "main": "Hauptnavigation",
-      "home": "Zur Startseite",
-      "toggleMenu": "Mobiles Menü umschalten",
-      "destinationMenu": "Ziel-Menü",
-      "language": "Sprache ändern"
-    },
+  
+  "navbar": {
     "home": "START",
     "destination": "REISEZIELE",
     "activities": "AKTIVITÄTEN",
@@ -938,16 +932,21 @@
     "blogs": "BLOGS",
     "contact": "KONTAKT",
     "bookNow": "JETZT BUCHEN",
-    "sections": {
-      "countries": "LÄNDER",
-      "originals": "THE SURFER ORIGINAL CAMPS",
-      "partner": "THE SURFER PARTNER CAMPS"
-    },
+    "countriesTitle": "LÄNDER",
+    "originalsTitle": "THE SURFER ORIGINAL CAMPS",
+    "partnersTitle": "THE SURFER PARTNER CAMPS",
     "countries": {
-      "srilanka": "Surf-Camps Sri Lanka",
-      "morocco": "Surf-Camps Marokko"
+      "srilanka": "Surf Camps Sri Lanka",
+      "morocco": "Surf Camps Marokko"
+    },
+    "camps": {
+      "beachCamp": "The Surfer Beach Camp",
+      "ts2Camp": "The Surfer TS2 Camp",
+      "waveCampComing": "Bald verfügbar: The Wave Surf Camp",
+      "styleCamp": "The Surfer SurfStyle"
     }
   },
+
   
   "blogs": {
     "heading": "BLOGS",
@@ -986,5 +985,10 @@
         "ariaLabel": "Blogartikel öffnen: Was sind Surfboard-Finnen — und welche Typen gibt es?"
       }
     ]
+  },
+
+  "faqPage": {
+    "metaTitle": "Häufige Fragen – The Surfer",
+    "heading": "Häufige Fragen"
   }
 }
