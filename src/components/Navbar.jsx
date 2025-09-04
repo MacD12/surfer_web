@@ -64,7 +64,9 @@ const Navbar = () => {
       ? 'bg-white/95 backdrop-blur-md shadow-lg border-b border-white/20'
       : 'bg-transparent'
       }`}>
-      <div className='container mx-auto flex justify-between items-center py-3 sm:py-4 px-3 sm:px-6 md:px-8 lg:px-16'>
+      {/* Make container relative so we can center the middle nav with absolute positioning */}
+      <div className='container mx-auto flex justify-between items-center py-3 sm:py-4 px-3 sm:px-6 md:px-8 lg:px-16 relative'>
+        {/* Left: Logo */}
         <a href='/'>
           <img
             src="logo.png"
@@ -73,13 +75,16 @@ const Navbar = () => {
               }`}
           />
         </a>
-        <ul className='hidden md:flex gap-4 lg:gap-7 text-sm lg:text-base relative'>
+
+        {/* Center: Main nav links */}
+        <ul className='hidden md:flex gap-4 lg:gap-7 text-sm lg:text-base absolute left-1/2 -translate-x-1/2'>
           <a href="/" className={`cursor-pointer transition-all duration-300 hover:transform hover:-translate-y-1 ${location.pathname === '/'
             ? 'text-cyan-500 font-bold underline underline-offset-4'
             : isScrolled
               ? 'text-gray-800 hover:text-cyan-600 hover:drop-shadow-[0_4px_8px_rgba(8,145,178,0.4)]'
               : 'text-white hover:text-cyan-300 hover:drop-shadow-[0_4px_8px_rgba(34,211,238,0.4)]'
             }`}>{t('navbar.home', 'HOME')}</a>
+
           <div
             className="relative"
             onClick={() => setIsDestinationHovered(!isDestinationHovered)}
@@ -251,7 +256,33 @@ const Navbar = () => {
               : 'text-white hover:text-cyan-300 hover:drop-shadow-[0_4px_8px_rgba(34,211,238,0.4)]'
             }`}>{t('navbar.contact', 'CONTACT')}</a>
         </ul>
-        
+
+        {/* Right: Language + Book Now (desktop) */}
+        <div className="hidden md:flex items-center gap-3">
+          <select
+            onChange={(e) => changeLanguage(e.target.value)}
+            value={i18n.language}
+            className={`w-28 h-9 px-2 bg-transparent appearance-none outline-none border-0 rounded-none cursor-pointer transition-colors
+              ${isScrolled ? 'text-gray-800 hover:text-cyan-600' : 'text-white hover:text-cyan-300'}`}
+            aria-label="Select language"
+          >
+            <option value="en">English en</option>
+            <option value="de">Deutsch de</option>
+          </select>
+
+          <a
+            href='https://main.d7z80586kqd0r.amplifyapp.com/'
+            target='_blank'
+            className={`px-4 lg:px-8 py-2 text-sm lg:text-base rounded-full border transition-all duration-300 hover:scale-105 hover:shadow-lg transform ${isScrolled
+              ? 'border-gray-800 text-gray-800 hover:bg-gray-800 hover:text-white'
+              : 'border-white text-white hover:bg-white hover:text-gray-800'
+              }`}
+          >
+            {t('navbar.bookNow', 'BOOK NOW')}
+          </a>
+        </div>
+
+        {/* Mobile menu button */}
         <button
           className={`md:hidden text-2xl transition-all duration-300 ${isMenuOpen ? 'rotate-90' : 'rotate-0'
             } ${isScrolled
@@ -262,21 +293,6 @@ const Navbar = () => {
         >
           ☰
         </button>
-
-        <a href='https://main.d7z80586kqd0r.amplifyapp.com/' target='_blank'
-          className={`hidden md:block px-4 lg:px-8 py-2 text-sm lg:text-base rounded-full border transition-all duration-300 hover:scale-105 hover:shadow-lg transform ${isScrolled
-            ? 'border-gray-800 text-gray-800 hover:bg-gray-800 hover:text-white'
-            : 'border-white text-white hover:bg-white hover:text-gray-800'
-            }`}>
-          {t('navbar.bookNow', 'BOOK NOW')}
-        </a>
-
-        <div className={`hidden md:block`}>
-          <select onChange={(e) => changeLanguage(e.target.value)} value={i18n.language}>
-            <option value="en">English en</option>
-            <option value="de">Deutsch de</option>
-          </select>
-        </div>
       </div>
 
       {/* Mobile Menu with Animation */}
@@ -319,6 +335,7 @@ const Navbar = () => {
                             ? 'text-gray-700 hover:bg-gray-100'
                             : 'text-white hover:bg-white/20'
                             } hover:text-blue-500`}
+                          onClick={() => setIsMenuOpen(false)}
                         >
                           {country.name}
                         </a>
@@ -332,6 +349,7 @@ const Navbar = () => {
                               ? 'text-gray-500 hover:bg-gray-100'
                               : 'text-white/70 hover:bg-white/10'
                               } hover:text-blue-500`}
+                            onClick={() => setIsMenuOpen(false)}
                           >
                             - {camp.name}
                           </a>
@@ -345,6 +363,7 @@ const Navbar = () => {
                               ? 'text-gray-500 hover:bg-gray-100'
                               : 'text-white/70 hover:bg-white/10'
                               } hover:text-blue-500`}
+                            onClick={() => setIsMenuOpen(false)}
                           >
                             - {camp.name}
                           </a>
@@ -409,8 +428,6 @@ const Navbar = () => {
               >
                 {t('navbar.contact', 'CONTACT')}
               </a>
-
-              
 
               <a href='https://main.d7z80586kqd0r.amplifyapp.com/' target='_blank'
                 className={`mt-2 mx-auto w-full max-w-xs px-4 sm:px-6 py-2 sm:py-3 rounded-full border transition-all duration-300 hover:scale-105 hover:shadow-lg transform text-xs sm:text-sm font-semibold text-center block ${isScrolled
