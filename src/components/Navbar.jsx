@@ -410,6 +410,8 @@ const Navbar = () => {
                 {t('navbar.contact', 'CONTACT')}
               </a>
 
+              
+
               <a href='https://main.d7z80586kqd0r.amplifyapp.com/' target='_blank'
                 className={`mt-2 mx-auto w-full max-w-xs px-4 sm:px-6 py-2 sm:py-3 rounded-full border transition-all duration-300 hover:scale-105 hover:shadow-lg transform text-xs sm:text-sm font-semibold text-center block ${isScrolled
                   ? 'border-gray-800 text-gray-800 hover:bg-gray-800 hover:text-white'

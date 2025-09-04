@@ -1298,11 +1298,11 @@
     }
   },
   
-  "common3": {
+  "common4": {
     "included": "inklusive",
     "notIncluded": "nicht enthalten"
   },
-  "moroccoPackage": {
+  "moroccoPackage1": {
     "title": "BUCHE DEIN SURF-ERLEBNIS",
     "subtitle": "FOLGENDES IST IN UNSEREN SURF-PAKETEN ENTHALTEN",
     "columns": {
@@ -1378,6 +1378,41 @@
         "yogaSurf": "106 € täglich / 636 € wöchentlich",
         "fullSurf": "90 € täglich / 540 € wöchentlich",
         "moderate": "90 € täglich / 540 € wöchentlich"
+      }
+    }
+  },
+
+
+  
+  "surfDays1": {
+    "title": "So sehen deine Surftage aus",
+    "sections": {
+      "morning": {
+        "title": "Sonnenaufgang & Soul – Energiereiche Morgen am Meer",
+        "body": "Beginne den Tag mit dem sanften Klang atlantischer Wellen und einem goldenen marokkanischen Sonnenaufgang. Genieße ein frisches, gesundes Frühstück, das dir Energie für alle Abenteuer gibt. An manchen Morgen startest du mit entspannendem Yoga oder leichtem Stretching – ideal, um Körper und Geist zu wecken, bevor es ins Wasser geht."
+      },
+      "lesson": {
+        "title": "Surfunterricht mit Herz – Wellenfangen in Tamraght",
+        "body": "Gestärkt und bereit betrittst du den warmen Sand und triffst unsere erfahrenen Surfcoaches. Jede Session wird deinem Level angepasst – egal, ob erste Schritte oder Feinschliff für Fortgeschrittene. Mit geduldiger Anleitung, lokalem Wissen und erstklassigen Spots kommst du deinen Surfzielen in jeder Stunde näher."
+      },
+      "freeTime": {
+        "title": "Freizeit = Deine Zeit – Marokko entdecken oder entspannen",
+        "body": "Nach der Surfsession gehört der Tag dir. Entspanne auf der Terrasse, trinke Minztee am Meer oder schlendere durch die charmanten Gassen von Tamraght. Lust auf mehr?",
+        "activitiesLabel": "Optionale Aktivitäten:",
+        "activities": [
+          "Spot-Erkundungen entlang der marokkanischen Küste",
+          "Besuche in Souks, Dörfern und kulturellen Highlights",
+          "Ausflüge zu versteckten Stränden und Aussichtspunkten",
+          "Authentische marokkanische Koch-Erlebnisse"
+        ]
+      },
+      "evening": {
+        "title": "Essen, Freunde & Feuerlicht – Abende unter marokkanischem Himmel",
+        "body": "Wenn die Nacht hereinbricht, wird das Camp zum Treffpunkt voller Lachen und Verbindung. Teile Geschichten beim leckeren marokkanischen Abendessen, genieße BBQ-Abende und mach bei Spielen oder Musik mit. Unter funkelnden Sternen werden aus Fremden Freunde – jeder Abend bleibt unvergesslich."
+      },
+      "sleep": {
+        "title": "Ruhe, Energie, Wiederholung – Schlafen am Meer",
+        "body": "Schlafe in einem sauberen, gemütlichen Zimmer ein, begleitet von der Meeresbrise. Wache erholt auf – bereit für einen weiteren Tag voller Surfen, Abenteuer und unvergesslicher Momente in Marokko."
       }
     }
   }
