@@ -1,0 +1,868 @@
+{
+  "activities": {
+    "pageTitle": "Aktivitäten - The Surfer",
+    "header": "Aktivitäten",
+    "boatParty": {
+      "title": "BOOTSPARTY",
+      "desc": "#BOOTSPARTY! Wenn du jemals an unserer legendären Bootsparty teilgenommen hast, wirst du sie niemals vergessen!"
+    },
+    "videoSection": {
+      "boatPartyVideo": "Bootsparty-Video"
+    },
+    "booking": {
+      "title": "Buche jetzt deinen Platz",
+      "button": "Jetzt buchen"
+    },
+    "meetPeople": {
+      "title": "LERNE NEUE LEUTE AUS DER GANZEN WELT KENNEN",
+      "desc": "Wir haben viele Aktivitäten und Gruppenevents für dich jeden Tag. Egal, ob du mit Freunden reist oder alleine – bei The Surfer bist du niemals allein."
+    },
+    "surfHoliday": {
+      "title": "Erlebe einen unvergesslichen Surfurlaub",
+      "desc": "Egal, ob du schon einmal gesurft bist oder nicht. Bei The Surfer kümmern wir uns um dein einzigartiges Surferlebnis – vom Anfänger bis zum Fortgeschrittenen."
+    },
+    "friendsForLife": {
+      "title": "FINDE FREUNDE FÜRS LEBEN",
+      "desc": "Sobald du The Surfer Sri Lanka besuchst, wirst du immer Teil unserer Familie sein."
+    }
+  },
+  "footer": {
+    "stats": {
+      "instructors": "Surf-Lehrer ausgebildet\nFörderung lokaler Talente über Grenzen hinweg.",
+      "sessions": "Surf-Sessions durchgeführt\nVon Anfängern bis zu Wellenjägern.",
+      "countries": "Länder vertreten durch unsere Gäste\nWerde Teil eines internationalen Surf-Stammes."
+    },
+    "about": {
+      "title": "Über uns",
+      "desc": "The Surfer Surf Camps in Sri Lanka werden vollständig von einem lokalen Surfer betrieben, der in Weligama geboren und aufgewachsen ist. Im Herzen des Surfgebiets in Weligama gelegen, mit neun bis zehn Surfspots, die innerhalb einer fünf- bis zehnminütigen Tuk-Tuk-Fahrt erreichbar sind."
+    },
+    "links": {
+      "title": "The Surfer",
+      "blog": "Blog",
+      "contact": "Kontakt"
+    },
+    "support": {
+      "title": "Support",
+      "terms": "Allgemeine Geschäftsbedingungen",
+      "imprint": "Impressum",
+      "privacy": "Datenschutz"
+    }
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "01) Lohnt es sich, ein Surfcamp auszuprobieren?",
+        "answer": "Auf der Suche nach einem epischen Abenteuer? Dann bist du im Surf Camp Sri Lanka genau richtig! Diese Erfahrung lohnt sich auf jeden Fall. Du verbesserst nicht nur deine Surfskills mit Videoanalyse und professionellem Coaching, sondern triffst auch viele gleichgesinnte Reisende. Außerdem musst du dir um nichts kümmern – das Camp übernimmt alles, von Essen bis Surfen, Yoga bis Sicherheit. Ob alleine unterwegs oder auf der Suche nach einer neuen Herausforderung: Das Surfcamp ist die perfekte Wahl. Verpasse nicht die Gelegenheit, die besten Wellen zu erwischen und neue Freunde zu finden!"
+      },
+      {
+        "question": "02) Hat Sri Lanka gutes Surfen?",
+        "answer": "Bist du Surfer und suchst ein neues Abenteuer? Sri Lanka ist der perfekte Ort! Mit wunderschönen Stränden und konstanten Wellen ist Sri Lanka ein Surferparadies. Egal ob Anfänger oder Profi, hier gibt es Spots für jeden. Von der berühmten Südwestküste Weligama bis zur Ostküste Arugam Bay findest du viele Breaks für deinen Style. Also schnapp dir dein Board und erlebe ein unvergessliches Surfabenteuer!"
+      },
+      {
+        "question": "03) Braucht man in Sri Lanka einen Neoprenanzug?",
+        "answer": "Planst du eine Reise nach Sri Lanka und fragst dich, ob du einen Neoprenanzug brauchst? Gute Nachrichten – den kannst du zu Hause lassen! Das Wasser in Sri Lanka ist warm, also musst du nicht frieren, während du surfst. Und mal ehrlich, wer hat schon Lust auf das An- und Ausziehen eines Neos? Also pack deine Boardshorts und Sonnencreme ein und genieße warme Surfsessions!"
+      },
+      {
+        "question": "04) Sind die Surfspots in Sri Lanka überfüllt?",
+        "answer": "Suchst du einen entspannten Surfurlaub ohne Massen? Dann komm nach Sri Lanka! Unser Surfcamp in Weligama wird von einem Local betrieben, der alle besten Spots kennt. Das Beste: Wir bringen dich zu versteckten Juwelen, die kaum jemand kennt. Keine Sorge um überfüllte Wellen oder Konkurrenz – einfach entspannen, surfen und die Natur genießen."
+      },
+      {
+        "question": "05) Bist du zu alt, um surfen zu lernen?",
+        "answer": "Alter ist nur eine Zahl! Ob 26 oder 66 – du kannst immer noch Wellen reiten und Spaß haben. Unsere anfängerfreundlichen Boards helfen dir, schnell Fortschritte zu machen. Worauf wartest du noch? Es ist nie zu spät, etwas Neues zu lernen. Buche eine Reise in unser Surfcamp Sri Lanka – inklusive Yoga-Retreat und Frühstück!"
+      },
+      {
+        "question": "06) Welche Monate sind am besten für Surfen an der Südwestküste?",
+        "answer": "Die besten Monate zum Surfen an Sri Lankas Südwestküste sind von Oktober bis Ende April. Ein halbes Jahr voller perfekter Wellen und Sonne! Warmes Wasser, konstante Swells – ein echtes Surferparadies."
+      },
+      {
+        "question": "07) Ist Sri Lanka gut für Surfanfänger?",
+        "answer": "Ja, Sri Lanka ist einer der besten Orte weltweit für Anfänger! Besonders der Strand von Weligama mit 2–3 km Sandküste und sanften Wellen eignet sich perfekt zum Lernen. Keine gefährlichen Strömungen oder Riffe – einfach surfen lernen und Spaß haben!"
+      }
+    ]
+  },
+  "blog": {
+    "titlePage": "Blogs - The Surfer",
+    "title": "Blogs",
+    "headerImage": "/blog.jpg",
+    "readMore": "Mehr lesen",
+    "items": [
+      {
+        "id": 1,
+        "title": "Surf-Etikette—5 Regeln, die jeder Anfänger kennen sollte",
+        "description": "Surfen ist ein anspruchsvoller Sport, der Geduld, Engagement und viel Übung erfordert. Es gibt einige Regeln, die jeder Anfänger kennen sollte, bevor er auf die Wellen geht. Diese Regeln zu kennen, hilft dir, dich zu verbessern...",
+        "image": "blogs/blog1.jpg",
+        "content": "Vollständiger Bloginhalt über Reisen und Erfahrungen in Sri Lanka..."
+      },
+      {
+        "id": 2,
+        "title": "5 gesundheitliche Vorteile des Surfens, die einfach unglaublich sind",
+        "description": "Wenn man über die gesundheitlichen Vorteile einer Outdoor-Aktivität spricht, kommt Surfen selten in den Sinn. Dennoch ist Surfen eine der vorteilhaftesten Sportarten für Körper und Geist. Es bietet ein Ganzkörpertraining, verbessert die Herz-Kreislauf-Gesundheit...",
+        "image": "blogs/blog2.jpg",
+        "content": "Es gibt immer einen Preis zu zahlen, einen Kompromiss, der gemacht werden muss..."
+      },
+      {
+        "id": 3,
+        "title": "The Surfer—Bereite dich auf ein ultimatives Surf- und Yoga-Erlebnis vor",
+        "description": "Die Vorstellung, riesige Wellen mit höchster Präzision zu reiten, begeistert dich? Liebst du es, eins mit dem Ozean zu sein? Dann bist du hier richtig. The Surfer bietet dir das ultimative Surf- und Yoga-Erlebnis...",
+        "image": "blogs/blog3.jpg",
+        "content": "Entdecke die authentischen Aromen Sri Lankas..."
+      },
+      {
+        "id": 4,
+        "title": "5 grundlegende Surftipps für Anfänger",
+        "description": "Bist du ein Anfänger und möchtest die Küsten sicher beherrschen? Hier sind 5 grundlegende Surftipps für Anfänger, die dir helfen, schnell Fortschritte zu machen. Egal ob Anfänger oder erfahrener Surfer...",
+        "image": "blogs/blog4.jpg",
+        "content": "Vollständiger Bloginhalt über Abenteueraktivitäten in Sri Lanka..."
+      },
+      {
+        "id": 5,
+        "title": "Was sind Surfboard-Finnen?—Wie viele Typen gibt es?",
+        "description": "Egal, ob Profi oder Anfänger, du musst die verschiedenen Arten von Surfboard-Finnen kennen. Es gibt mehrere Typen, jeder mit seinen eigenen Eigenschaften...",
+        "image": "blogs/blog5.jpg",
+        "content": "Detaillierter Leitfaden zu den kulturellen Sehenswürdigkeiten in Sri Lanka..."
+      },
+      {
+        "id": 6,
+        "title": "Aktuelle Situation in Sri Lanka",
+        "description": "Alles, was du für eine stressfreie und einfache Surfreise wissen musst! Die neuesten Updates zu Sri Lanka. Trotz der wirtschaftlichen Krise bleibt Sri Lanka ein sicheres und einladendes Reiseziel...",
+        "image": "blogs/blog6.jpg",
+        "content": "Vollständiger Bloginhalt über Wildtiersafaris im Yala-Nationalpark..."
+      },
+      {
+        "id": 7,
+        "title": "Alles, was du über verschiedene Surf-Stile wissen musst",
+        "description": "Surfen ist ein umfassender Sport, der jeden Muskel im Körper beansprucht. Du benutzt Arme, Beine und Rumpf, um zu paddeln, das Gleichgewicht zu halten und die Wellen mit Stil zu reiten. Es gibt verschiedene Surf-Stile...",
+        "image": "blogs/blog7.jpg",
+        "content": "Detaillierter Leitfaden zum Strandhopping in Sri Lanka..."
+      },
+      {
+        "id": 8,
+        "title": "Zehn Begriffe aus der Surfwelt, die du kennen musst",
+        "description": "Jeder Sport hat seine eigene Fachsprache. Um den Sport zu verstehen, musst du die Begriffe kennen. Surfen ist keine Ausnahme und hat eigene Begriffe, die du wissen musst...",
+        "image": "blogs/blog8.jpg",
+        "content": "Vollständiger Bloginhalt über Wellness-Retreats in Sri Lanka..."
+      },
+      {
+        "id": 9,
+        "title": "5 außergewöhnliche Wege, um dein Surfen 2022 zu verbessern",
+        "description": "Es gibt immer einen Preis zu zahlen, einen Kompromiss, wenn es darum geht, deine Surf-Fähigkeiten zu verbessern. Egal wie gut du wirst, es gibt immer Raum zur Verbesserung. Hier sind 5 außergewöhnliche Wege...",
+        "image": "blogs/blog9.jpg",
+        "content": "Detaillierter Leitfaden über die Sigiriya-Felsenfestung..."
+      },
+      {
+        "id": 10,
+        "title": "Sechs häufige Anfängerfehler beim Surfen",
+        "date": "25. Oktober 2022 / Surfen",
+        "description": "Die meisten Anfänger denken, Surfen wäre einfach, doch sie merken schnell, dass es viel Übung und Hingabe erfordert. Es gibt einige Regeln, die jeder Anfänger kennen sollte...",
+        "image": "blogs/blog10.jpg",
+        "content": "Vollständiger Bloginhalt über die besten Strände in Sri Lanka..."
+      },
+      {
+        "id": 11,
+        "title": "Welche Surfboard-Größe ist die richtige für dich?",
+        "description": "Egal, ob Anfänger oder Profi – die Wahl der richtigen Surfboard-Größe ist entscheidend. Ein zu großes oder zu kleines Board kann dein Surferlebnis beeinträchtigen...",
+        "image": "blogs/blog11.jpg",
+        "content": "Detaillierter Leitfaden zu Festivals und Events in Sri Lanka..."
+      },
+      {
+        "id": 12,
+        "title": "Drei Sicherheitsgrundlagen für Surf-Anfänger",
+        "description": "Wenn du dich völlig frei fühlen möchtest, ist Surfen ideal. Bevor du jedoch auf die Wellen gehst, solltest du einige Sicherheitsgrundlagen für Anfänger beachten...",
+        "image": "blogs/blog12.jpg",
+        "content": "Detaillierter Leitfaden zu Festivals und Events in Sri Lanka..."
+      },
+      {
+        "id": 13,
+        "title": "Ein schneller Leitfaden für Surf-Anfänger",
+        "description": "Surfen wird immer beliebter, und jeder Sport hat seine eigene Kultur und Fähigkeiten. Mit der richtigen Anleitung kann jeder lernen, sicher auf den Wellen zu stehen...",
+        "image": "blogs/blog13.jpg",
+        "content": "Detaillierter Leitfaden zu Festivals und Events in Sri Lanka..."
+      }
+    ]
+  },
+  "beachPackages": {
+    "title": "The Surfer Beach Camp - Surf Pakete & Wochenpreise",
+    "packages": {
+      "surfAndYoga": "Surf- und Yoga-Paket",
+      "fullSurf": "Vollständiges Surf-Paket",
+      "moderateSurf": "Moderat Surf-Paket"
+    },
+    "features": [
+      { "name": "Surf-Unterricht", "surfAndYoga": "06 Lektionen / Woche", "fullSurf": "11 Lektionen", "moderateSurf": "06 Lektionen / Woche" },
+      { "name": "Yoga", "surfAndYoga": "Sonnenaufgang oder Sonnenuntergang täglich", "fullSurf": "02 Einheiten / Woche", "moderateSurf": "02 Einheiten / Woche" },
+      { "name": "07 Nächte Unterkunft", "surfAndYoga": "✓", "fullSurf": "✓", "moderateSurf": "✓" },
+      { "name": "Frühstück täglich", "surfAndYoga": "✓", "fullSurf": "✓", "moderateSurf": "✓" },
+      { "name": "Abendessen - täglich außer Sonntag", "surfAndYoga": "✓", "fullSurf": "✓", "moderateSurf": "✓" },
+      { "name": "Surf Theorie Unterricht", "surfAndYoga": "✓", "fullSurf": "✓", "moderateSurf": "✓" },
+      { "name": "Video Analyse", "surfAndYoga": "✓", "fullSurf": "✓", "moderateSurf": "✓" },
+      { "name": "Tägliche soziale Aktivitäten", "surfAndYoga": "✓", "fullSurf": "✓", "moderateSurf": "✓" }
+    ],
+    "accommodation": [
+      { "name": "Gemischtes Schlafsaalbett", "note": "Max ( 05 Personen )", "surfAndYoga": "450 €", "fullSurf": "490 €", "moderateSurf": "390 €" },
+      { "name": "Privates Einzelzimmer", "note": "Pro Woche", "surfAndYoga": "750 €", "fullSurf": "790 €", "moderateSurf": "690 €" },
+      { "name": "Privates Doppel- / Twinzimmer", "note": "Pro Person / Woche", "surfAndYoga": "550 €", "fullSurf": "590 €", "moderateSurf": "490 €" },
+      { "name": "Privates Dreibettzimmer", "note": "Pro Person / Woche", "surfAndYoga": "500 €", "fullSurf": "550 €", "moderateSurf": "450 €" }
+    ]
+  },
+  "ts2Packages": {
+    "title": "The Surfer TS2 Camp - Surfpakete & Wochenpreise",
+    "packages": {
+      "surfAndYoga": "Surf- und Yoga-Paket",
+      "fullSurf": "Voll-Surf-Paket",
+      "moderateSurf": "Moderates Surf-Paket"
+    },
+    "features": [
+      { "name": "Surfunterricht", "surfAndYoga": "06 Lektionen / Woche", "fullSurf": "11 Lektionen", "moderateSurf": "06 Lektionen / Woche" },
+      { "name": "Yoga", "surfAndYoga": "Jeden Tag Sonnenaufgang oder Sonnenuntergang", "fullSurf": "02 Sitzungen / Woche", "moderateSurf": "02 Sitzungen / Woche" },
+      { "name": "07 Nächte Unterkunft", "surfAndYoga": "✓", "fullSurf": "✓", "moderateSurf": "✓" },
+      { "name": "Frühstück jeden Tag", "surfAndYoga": "✓", "fullSurf": "✓", "moderateSurf": "✓" },
+      { "name": "Abendessen - jeden Tag außer Sonntag", "surfAndYoga": "✓", "fullSurf": "✓", "moderateSurf": "✓" },
+      { "name": "Theorieunterricht Surfen", "surfAndYoga": "✓", "fullSurf": "✓", "moderateSurf": "✓" },
+      { "name": "Videoanalyse", "surfAndYoga": "✓", "fullSurf": "✓", "moderateSurf": "✓" },
+      { "name": "Tägliche soziale Aktivitäten", "surfAndYoga": "✓", "fullSurf": "✓", "moderateSurf": "✓" }
+    ],
+    "accommodation": [
+      { "name": "Gemischtes Schlafsaalbett", "note": "Max (5 Personen)", "surfAndYoga": "350 €", "fullSurf": "390 €", "moderateSurf": "290 €" },
+      { "name": "Privates Einzelzimmer", "note": "Pro Woche", "surfAndYoga": "450 €", "fullSurf": "490 €", "moderateSurf": "390 €" },
+      { "name": "Privates Doppel-/Zweibettzimmer", "note": "Pro Person / Pro Woche", "surfAndYoga": "350 €", "fullSurf": "390 €", "moderateSurf": "290 €" },
+      { "name": "Privates Dreibettzimmer", "note": "Pro Person / Pro Woche", "surfAndYoga": "350 €", "fullSurf": "390 €", "moderateSurf": "290 €" }
+    ]
+  },
+
+  "home": {
+    "pageTitle": "The Surfer - Surfcamps & Surfunterricht",
+
+    "hero": {
+      "heading": "The Surfer\nSurfcamps"
+    },
+
+    "sections": {
+      "sriLankaCardTitle": "Sri Lanka",
+      "moroccoCardTitle": "Marokko",
+      "styleCampNote": "Unser vertrauenswürdiges Partnercamp in Tamraght bietet die perfekte Mischung aus konstanten Wellen, entspanntem marokkanischem Lebensstil und freundlicher Community. Gäste genießen von Experten geleitete Surfsessions, optionales Yoga, gemütliche Unterkünfte in Strandnähe und eine warme, einladende Atmosphäre. Egal, ob du deine erste Welle jagst oder deine Skills verfeinerst – das The Surfer Style Camp liefert ein unvergessliches Surferlebnis – mit der gleichen Qualität und Leidenschaft, die du von The Surfer kennst."
+    },
+
+    "cta": {
+      "bookNow": "Jetzt buchen"
+    },
+
+    "cards": [
+      {
+        "images": ["/beach_camp/11.jpg", "/beach_camp/I3.jpg", "/beach_camp/image_1.jpg", "/beach_camp/act1.jpg"],
+        "topic": "The Surfer Beach Surf Camp",
+        "body1": "Komm zu uns – dem ultimativen Ziel für Surf-Enthusiasten. Erlebe den Nervenkitzel der Wellen und die ruhige Schönheit des Ozeans.",
+        "link": "/beach-camp"
+      },
+      {
+        "images": ["/ts2_camp/restaurant.jpg", "/ts2_camp/carrom.jpg", "/ts2_camp/building.jpg", "/ts2_camp/surfdays_4.jpg"],
+        "topic": "TS2 Surf Camp",
+        "body1": "Spüre die Magie des Surfens, wenn die Sonne am Horizont untergeht. Unsere geführten Sunset-Sessions sind der perfekte Abschluss deines Strandtages.",
+        "link": "/ts2-camp"
+      },
+      {
+        "images": ["/morocco/moro-1.jpg", "/morocco/moro-2.jpg", "/morocco/moro-3.jpg", "/morocco/morocco6.jpg"],
+        "topic": "The Surfer Surf Style – Marokko",
+        "body1": "Bringe deine Skills auf das nächste Level mit unserem Advanced-Surf-Trainingscamp – für alle, die Technik und Form ernsthaft verbessern möchten.",
+        "link": "/style-camp"
+      }
+    ]
+  },
+  "comfortableStays": {
+    "title": "Insel-Style übernachten",
+    "intro": "Ob Solo-Surfer, Strand-liebendes Paar oder Gruppe von Wellenjägern — wir haben den perfekten Platz für dich. Luftige Zimmer, tropische Akzente und alles, was du für einen entspannten Aufenthalt direkt am Meer brauchst. Lässiger Komfort trifft Insel-Style — denn nach einem Surftag hat jeder einen guten Schlaf verdient.",
+    "rooms": [
+      {
+        "key": "dormitory",
+        "alt": "Gemischter Schlafsaal",
+        "title": "Gemischter Schlafsaal",
+        "desc": "Ideal für Alleinreisende, die gern neue Leute kennenlernen."
+      },
+      {
+        "key": "singleRoom",
+        "alt": "Privates Einzelzimmer mit Bad",
+        "title": "Privates Einzelzimmer mit Bad",
+        "desc": "Dein persönliches Surf-Refugium — Privatsphäre und Komfort für eine erholsame Nacht nach einem Tag in den Wellen."
+      },
+      {
+        "key": "doubleRoom",
+        "alt": "Privates Doppel-/Zweibettzimmer mit Bad",
+        "title": "Privates Doppel-/Zweibettzimmer mit Bad",
+        "desc": "Für Alleinreisende, Paare oder Freunde — Privatsphäre mit Stil für einen guten Schlaf."
+      },
+      {
+        "key": "tripleRoom",
+        "alt": "Privates Dreibettzimmer mit Bad",
+        "title": "Privates Dreibettzimmer mit Bad",
+        "desc": "Perfekt für Freundesgruppen oder kleine Familien — gemeinsame Momente und entspannter Komfort mit viel Platz."
+      }
+    ]
+  },
+  "headers": {
+    "beach": {
+      "title": "The Surfer Beach Camp",
+      "subtitle": "Dein ultimatives Surf-Camp am Strand",
+      "bgImage": "/beachcamp.jpg"
+    }
+  },
+  "imageCard": {
+    "images": [
+      { "alt": "Dachterrasse des Beach Camps" },
+      { "alt": "Poolbereich" },
+      { "alt": "Gebäude des Beach Camps" }
+    ]
+  },
+  "imageSlider": {
+    "aria": {
+      "prev": "Vorherige Bilder",
+      "next": "Nächste Bilder"
+    },
+    "slider1Alts": [
+      "Schlafzimmer 1",
+      "Schlafzimmer 2",
+      "Schlafzimmer 3",
+      "Schlafzimmer 4",
+      "Schlafzimmer 5",
+      "Schlafzimmer 6"
+    ],
+    "slider2Alts": [
+      "Zimmer 1",
+      "Zimmer 2",
+      "Zimmer 3",
+      "Zimmer 4",
+      "Zimmer 5",
+      "Zimmer 6"
+    ]
+  },
+  "lifeAtSurfCamp": {
+    "title": "Das Leben im The Surfer Beach Camp",
+    "paragraphs": [
+      "Direkt an den goldenen Stränden von Weligama verbindet das The Surfer Beach Camp epische Wellen, tropisches Leben und gute Vibes zu einem unvergesslichen Erlebnis. Mit über zehn Jahren Erfahrung in der Surf-Gastfreundschaft und sechs aufeinanderfolgenden Tripadvisor Travelers’ Choice Awards ist dies weit mehr als nur ein Surfcamp – es ist ein Zuhause fern von Zuhause.",
+      "Jeder Tag folgt dem Rhythmus des Ozeans. Wache mit dem Rauschen der Wellen auf, triff Gleichgesinnte zu Surfsessions mit lokalem und internationalem, ISA-zertifiziertem Coaching und entspanne bei Sunset-Yoga oder Livemusik auf der Dachterrasse. Ob erste Welle oder Feinschliff deiner Skills – hier findest du die perfekte Mischung aus Abenteuer, Entspannung und Gemeinschaft.",
+      "Von herzlichem Team und Meerblick bis zur lebendigen Surfkultur und dem sozialen Spirit – im The Surfer Beach Camp werden neue Surfer geboren und lebenslange Erinnerungen geschaffen."
+    ]
+  },
+  "packagesPage": {
+    "bookTitle": "BUCHE DEIN SURF-ERLEBNIS",
+    "included": "FOLGENDES IST IN UNSEREN SURF-PAKETEN ENTHALTEN"
+  },
+  "packageCards": {
+    "title": "Buche dein Surf-Erlebnis",
+    "includedHeading": "Folgendes ist im Paket enthalten",
+    "list": [
+      {
+        "id": 1,
+        "image": "/beach_camp/package_1.jpg",
+        "title": "Moderates Surf-Unterrichts-Paket",
+        "subtitle": "Anfänger, Level 01 / Erfahrene 02 / Mittelstufe",
+        "des": "ODER",
+        "description": "MODERATES SURF-GUIDING",
+        "features": "Erfahrene Surfer",
+        "pricing": [
+          { "type": "GEMISCHTES SCHLAFSAALBETT – Max ( 05 Personen )", "price": "350 €" },
+          { "type": "PRIVATES EINZELZIMMER pro Woche", "price": "600 €" },
+          { "type": "PRIVATES DOPPELZIMMER pro Person pro Woche", "price": "490 €" },
+          { "type": "PRIVATES DREIBETTZIMMER pro Person pro Woche", "price": "450 €" }
+        ],
+        "included": [
+          "07 Nächte Unterkunft",
+          "Frühstück jeden Tag",
+          "Abendessen – jeden Tag außer Sonntag",
+          "Surf-Theorieunterricht",
+          "Videoanalyse",
+          "Tägliche soziale Aktivitäten",
+          "Surfunterricht – 06 Surfstunden oder Guiding",
+          "Yoga – 02 Einheiten / Woche"
+        ]
+      },
+      {
+        "id": 2,
+        "image": "/beach_camp/package_2.jpg",
+        "title": "Komplettes Surf-Unterrichts-Paket",
+        "subtitle": "Anfänger, Level 01 / Erfahrene 02 / Mittelstufe",
+        "des": "ODER",
+        "description": "KOMPLETTES SURF-GUIDING-PAKET",
+        "features": "Erfahrene Surfer",
+        "pricing": [
+          { "type": "GEMISCHTES SCHLAFSAALBETT – Max ( 05 Personen )", "price": "450 €" },
+          { "type": "PRIVATES EINZELZIMMER pro Woche", "price": "700 €" },
+          { "type": "PRIVATES DOPPELZIMMER pro Person pro Woche", "price": "550 €" },
+          { "type": "PRIVATES DREIBETTZIMMER pro Person pro Woche", "price": "500 €" }
+        ],
+        "included": [
+          "07 Nächte Unterkunft",
+          "Frühstück jeden Tag",
+          "Abendessen – jeden Tag außer Sonntag",
+          "Surf-Theorieunterricht",
+          "Videoanalyse",
+          "Tägliche soziale Aktivitäten",
+          "Surfunterricht – 11 Surfstunden",
+          "Yoga – 02 Einheiten / Woche"
+        ]
+      },
+      {
+        "id": 3,
+        "image": "/beach_camp/package_3.jpg",
+        "title": "Surf- & Yoga-Paket",
+        "subtitle": "Surfunterricht",
+        "des": "ODER",
+        "description": "Surf-Guiding",
+        "features": "mit Yoga",
+        "pricing": [
+          { "type": "GEMISCHTES SCHLAFSAALBETT – Max ( 05 Personen )", "price": "400 €" },
+          { "type": "PRIVATES EINZELZIMMER pro Woche", "price": "650 €" },
+          { "type": "PRIVATES DOPPELZIMMER pro Person pro Woche", "price": "520 €" },
+          { "type": "PRIVATES DREIBETTZIMMER pro Person pro Woche", "price": "490 €" }
+        ],
+        "included": [
+          "07 Nächte Unterkunft",
+          "Frühstück jeden Tag",
+          "Abendessen – jeden Tag außer Sonntag",
+          "Surf-Theorieunterricht",
+          "Videoanalyse",
+          "Tägliche soziale Aktivitäten",
+          "Surfunterricht – 06 Surfstunden oder Guiding / Woche",
+          "Yoga – Sonnenaufgang oder Sonnenuntergang täglich"
+        ]
+      }
+    ]
+  },
+  "roomImageSlider": {
+    "aria": {
+      "prev": "Vorheriges Bild",
+      "next": "Nächstes Bild",
+      "goto": "Gehe zu Bild {{n}}"
+    },
+    "altIndexed": "{{base}} – Bild {{n}}",
+    "defaultAlt": "Zimmerfoto"
+  },
+  "surfDays": {
+    "title": "So sehen deine Surf-Tage aus",
+    "sections": [
+      {
+        "alt": "Sonnenaufgang über der Weligama Bay",
+        "heading": "Sunrise to Soul – Morgende, die bewegen",
+        "body": [
+          "Dein Tag beginnt mit dem Klang der Wellen und dem goldenen Licht des Sonnenaufgangs über der Weligama Bay.",
+          "Starte mit einer sanften Morgenyoga-Session auf unserer Dachterrasse oder im Garten-Deck, um Körper und Geist zu wecken, bevor es zum Frühstück geht. Unsere Mahlzeiten sind frisch, nahrhaft und perfekt, um Energie für die nächste Surfsession zu tanken."
+        ]
+      },
+      {
+        "alt": "Surfunterricht am Strand",
+        "heading": "Surfunterricht mit Herz – Action am späten Vormittag",
+        "body": [
+          "Nach dem Frühstück schnappst du dir dein Board und gehst direkt zum Strand.",
+          "Du nimmst an einer Kleingruppen-Surfstunde mit unseren erfahrenen, zertifizierten Coaches teil. Ob kompletter Anfänger oder auf dem Weg zur Mittelstufe – jede Einheit ist persönlich, geduldig und geprägt von Lokalwissen und dem Glauben, dass jeder mit der richtigen Einstellung und Anleitung surfen kann."
+        ]
+      },
+      {
+        "alt": "Entspannter Nachmittag am Pool",
+        "heading": "Freie Zeit = deine Zeit – Nachmittage zum Entdecken oder Chillen",
+        "body": [
+          "Nach der Session: abduschen, erfrischen und den Nachmittag so gestalten, wie du willst. Lust auf Entspannung? Chille am Pool, sonne dich mit neuen Freunden oder schlafe in der Hängematte. Lust auf Entdecken? Schlendere durch die bunten Straßen von Weligama, probiere ein lokales Curry oder hol dir eine Kokosnuss am Strand.",
+          "Außerdem organisieren wir optionale Aktivitäten wie:"
+        ],
+        "list": [
+          "Tuk-Tuk-Touren zu geheimen Stränden",
+          "Kochkurse",
+          "Ausflüge nach Midigama und Mirissa",
+          "Wildtierbeobachtung oder Fototouren zu Stelzenfischern"
+        ]
+      },
+      {
+        "alt": "Abendliche Social-Vibes mit Musik",
+        "heading": "Essen, Freunde & Feuerlicht – Abende zum Erinnern",
+        "body": [
+          "Wenn die Sonne untergeht, erwacht das Camp: Spieleabende, Quiz-Battles, Karaoke, Themen-Dinner, Filmnächte und legendäre Night-Outs. Genieße gefühlvolle Klänge lokaler Akustik-Artists und viele tägliche Social Activities – es ist immer etwas los!",
+          "Hier knüpfst du Verbindungen mit Menschen aus aller Welt. Alleinreisende werden zu Freunden fürs Leben, Surf-Buddys zur Familie. Und jeder Sonnenuntergang fühlt sich ein bisschen besonderer an als der letzte."
+        ]
+      },
+      {
+        "alt": "Gemütliches Zimmer bei Nacht",
+        "heading": "Schlaf gut. Surf weiter.",
+        "body": [
+          "Zurück im sauberen, gemütlichen Zimmer schläfst du mit dem entfernten Rauschen der Wellen ein. Kein Verkehr. Kein Stress. Nur Ruhe – denn morgen ist ein neuer Tag zum Surfen, Connecten und Paradies entdecken."
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "aria": {
+      "locationIcon": "Standort",
+      "emailIcon": "E-Mail"
+    },
+    "cards": [
+      {
+        "title": "THE SURFER\nBEACH CAMP",
+        "lines": ["NO 65, Wadana Watta,", "Pelena, Weligama", "Sri Lanka. 81700"],
+        "icon": "location",
+        "mapUrl": "https://maps.google.com/?q=NO%2065%20Wadana%20Watta%20Pelena%20Weligama%2081700"
+      },
+      {
+        "title": "TS2 SURF CAMP",
+        "lines": ["NO 176/12, 3rd Lane,", "Main Street, Weligama", "Sri Lanka. 81700"],
+        "icon": "location",
+        "mapUrl": "https://maps.google.com/?q=Main%20Street%20Weligama%2081700"
+      },
+      {
+        "title": "THE WAVE SURF CAMP",
+        "lines": ["Kommt bald"],
+        "icon": "location"
+      },
+      {
+        "title": "THE SURFER STYLE – MAROKKO",
+        "lines": ["Tamraght,", "Agadir 80023"],
+        "icon": "location",
+        "mapUrl": "https://maps.google.com/?q=Tamraght%20Agadir%2080023"
+      },
+      {
+        "title": "E-MAIL",
+        "lines": ["info@thesurferweligama.com"],
+        "icon": "email",
+        "mailto": "info@thesurferweligama.com",
+        "badge": "1"
+      }
+    ]
+  },
+  "form": {
+    "title": "Sende deine Anfragen / Buchungen",
+    "select": {
+      "placeholder": "Anfragegrund:",
+      "options": [
+        { "value": "booking", "label": "Buchung" },
+        { "value": "general-inquiry", "label": "Allgemeine Anfrage" },
+        { "value": "support", "label": "Support" },
+        { "value": "partnership", "label": "Partnerschaft" },
+        { "value": "other", "label": "Sonstiges" }
+      ]
+    },
+    "placeholders": {
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "Deine E-Mail",
+      "confirmEmail": "E-Mail bestätigen",
+      "phone": "Telefon",
+      "country": "Land",
+      "message": "Nachricht"
+    },
+    "button": "Absenden",
+    "validation": {
+      "emailMismatch": "E-Mail-Adressen stimmen nicht überein."
+    }
+  },
+  "getInTouch": {
+    "title": "Nimm Kontakt auf",
+    "body": "Bitte fülle dieses Formular aus, und wir melden uns in Kürze bei dir. Du kannst uns auch jederzeit mit deinen Fragen kontaktieren. Teile uns gern besondere Wünsche oder Anforderungen mit – wir beantworten alle Anfragen innerhalb von 24 Stunden."
+  },
+  "contact1": {
+    "headerTitle": "Kontakt",
+    "pageTitle": "Kontakt – The Surfer"
+  },
+  "inquiries": {
+    "title": "Buchungsanfragen",
+    "items": [
+      { "text": "Wir melden uns innerhalb von 24 Stunden auf alle Anfragen." },
+      { "text": "Teile uns gern besondere Wünsche für deinen Aufenthalt mit." },
+      { "text": "Zur Bestätigung deiner Reservierung ist eine Anzahlung von 25 % (nicht erstattungsfähig) erforderlich.", "second": "Um bei uns zu übernachten!" }
+    ]
+  },
+  "map": {
+    "buttons": { "map": "Karte", "satellite": "Satellit" },
+    "location": "Weligama, Sri Lanka",
+    "viewLabel": { "map": "Kartenansicht", "satellite": "Satellitenansicht" },
+    "iframeTitle": "{{location}} – {{view}}",
+    "aria": {
+      "toggleMap": "Zur Kartenansicht wechseln",
+      "toggleSatellite": "Zur Satellitenansicht wechseln",
+      "zoomIn": "Hineinzoomen",
+      "zoomOut": "Herauszoomen"
+    }
+  },
+  "policy": {
+    "title": "Stornierungsrichtlinie",
+    "points": [
+      {
+        "strong": "Vollständige Rückerstattung oder kostenlose Änderung bis 21 Tage vor dem Anreisedatum.",
+        "note": "(Nicht gültig für Aufenthalte zwischen dem 20. Dezember und dem 5. Januar.)"
+      }
+    ],
+    "contact": "Bei Fragen kannst du uns jederzeit kontaktieren. Teile uns gern besondere Wünsche oder Anforderungen mit – wir beantworten alle Nachrichten innerhalb von 24 Stunden."
+  },
+  "beachCamp": {
+    "title": "The Surfer Beach Camp – Sri Lanka",
+    "desc": "Direkt am Strand von Weligama gelegen, ist dies unser ursprüngliches Surfcamp mit direktem Meerzugang und sechs Tripadvisor-Auszeichnungen. Ideal für Surferinnen und Surfer, die Energie, soziale Vibes und unmittelbaren Strandzugang suchen.",
+    "cta": "Jetzt buchen",
+    "slides": [
+      { "alt": "Surfer am Strand" },
+      { "alt": "Surftraining" },
+      { "alt": "Strandaktivitäten" },
+      { "alt": "Surfstunde" }
+    ],
+    "aria": {
+      "prev": "Vorherige Folie",
+      "next": "Nächste Folie"
+    }
+  },
+  "chooseSurfCamp": {
+    "heading": "Sri Lankas Surf-Hauptstadt: Warum wir Weligama gewählt haben",
+    "subheading": "Weligama ist einer der besten Surf-Orte Sri Lankas – ideal für Anfänger und Fortgeschrittene. Mit konstanten Wellen, lockerer Atmosphäre und einfacher Anbindung an Strände wie Midigama und Mirissa ist es die perfekte Basis für dein Surf-Abenteuer.",
+    "pillars": [
+      {
+        "title": "8× in Folge: Travelers’ Choice Awards auf Tripadvisor. Meistbewertetes Surfcamp bei Google.",
+        "description": "Weltweit anerkannt für hervorragende Surf-Erlebnisse und Service."
+      },
+      {
+        "title": "International ISA-zertifizierte Trainer",
+        "description": "Aus der Region – kennen die Wellen besser als jeder andere."
+      },
+      {
+        "title": "Unterkünfte direkt am Strand",
+        "description": "Aufwachen mit Meeresrauschen – in Sri Lanka und Marokko."
+      },
+      {
+        "title": "Freunde fürs Leben",
+        "description": "Von Sunset-Sessions bis Chill-Abenden – unsere Social-Vibes bringen Reisende zusammen und schaffen Freundschaften, die bleiben."
+      }
+    ]
+  },
+  "countryCard": {
+    "destinations": [
+      { "slug": "sri-lanka", "title": "Sri Lanka", "subtitle": "Warmes Wasser & sanfte Wellen" },
+      { "slug": "morocco",   "title": "Marokko",   "subtitle": "Atlantik-Swells & Wintersonne" }
+    ],
+    "aria": {
+      "card": "Reiseziel: {{title}}"
+    }
+  },
+  "campDifference": {
+    "title": "Unterschied zwischen Beach Camp und TS2 Camp",
+    "body": "Die Hauptunterschiede sind der Standort und der Zimmerstandard.\n\nBeach Camp — Direkt am Strand mit Pool. Standard-Privatzimmer mit Klimaanlage und eigenem Bad mit Warmwasser.\n\nTS2 Camp — Einfache Privatzimmer mit Ventilator und eigenem Bad mit Warmwasser. Ca. 5 Minuten vom Beach Camp entfernt.\n\nAlle Surfkurse, Yoga, Abendessen und Events finden im Beach Camp statt.\n\nFür den Transfer zwischen den Camps erstatten wir 1.000 LKR pro Zimmer/Schlafsaal und Tag.\n\nVerbringe den Tag im Beach Camp und schlafe im TS2 Camp."
+  },
+  "follow": {
+    "title": "FOLGE UNS",
+    "cta": "Folge uns auf Instagram",
+    "galleryAlt": "Galeriebild {{num}}",
+    "aria": {
+      "instagram": "Unser Instagram-Profil öffnen"
+    }
+  },
+  "camps": {
+    "cards": {
+      "beach": {
+        "topic": "The Surfer Beach Surf Camp",
+        "body": "Komm zu uns an das ultimative Ziel für Surfbegeisterte. Erlebe den Nervenkitzel des Wellenreitens und genieße die ruhige Schönheit des Ozeans."
+      },
+      "ts2": {
+        "topic": "TS2 Surf Camp",
+        "body": "Fühle die Magie des Surfens, wenn die Sonne am Horizont untergeht. Unsere geführten Sunset-Sessions sind der perfekte Abschluss deines Strandtages."
+      },
+      "wave": {
+        "topic": "Demnächst: The Wave Surf Camp",
+        "body": "Unser weiteres Surfcamp in Sri Lanka geht bald online. Bleib dran!"
+      }
+    }
+  },
+  "surfLessonPackages": {
+    "includedTitle": "Folgendes ist im Paket enthalten",
+    "cta": "Jetzt buchen",
+
+    "moderate": {
+      "title": "Moderat Surfkurs-Paket",
+      "subtitle": "Anfänger, Level 01 / Level 02 / Fortgeschrittene",
+      "description": "ODER MODERATES SURF-GUIDING (Advanced)",
+      "features": [
+        "07 Nächte Unterkunft",
+        "06 Surflektionen oder Guiding-Sessions",
+        "Surftheorie",
+        "Frühstück jeden Tag",
+        "06 Abendessen inkl. spezieller Buffetabende",
+        "02 Yogaeinheiten inklusive",
+        "Kostenloser Transport zu verschiedenen Surfspots",
+        "Kostenlose Nutzung der Surfboards während der Sessions",
+        "Unterricht in Kleingruppen (max. 6 Personen pro Gruppe)",
+        "Tägliche soziale Aktivitäten"
+      ]
+    },
+
+    "full": {
+      "title": "Vollständiges Surfkurs-Paket",
+      "subtitle": "Anfänger, Level 01 / Level 02 / Fortgeschrittene",
+      "description": "ODER VOLLES SURF-GUIDING-PAKET (Advanced Surfers)",
+      "features": [
+        "07 Nächte Unterkunft",
+        "11 Surflektionen oder Guiding-Sessions",
+        "Surftheorie",
+        "Frühstück jeden Tag",
+        "06 Abendessen inkl. spezieller Buffetabende",
+        "02 Yogaeinheiten inklusive",
+        "Kostenloser Transport zu verschiedenen Surfspots",
+        "Kostenlose Nutzung der Surfboards während der Sessions",
+        "Unterricht in Kleingruppen (max. 6 Personen pro Gruppe)",
+        "Tägliche soziale Aktivitäten"
+      ]
+    },
+
+    "yoga": {
+      "title": "Surf- & Yoga-Paket",
+      "subtitle": "Surfunterricht ODER Surf-Guiding mit Yoga",
+      "description": "",
+      "features": [
+        "07 Nächte Unterkunft",
+        "Tägliches Yoga morgens oder abends",
+        "06 Surflektionen oder Guiding-Sessions",
+        "Surftheorie",
+        "Frühstück jeden Tag",
+        "06 Abendessen inkl. spezieller Buffetabende",
+        "Kostenloser Transport zu verschiedenen Surfspots",
+        "Kostenlose Nutzung der Surfboards während der Sessions",
+        "Unterricht in Kleingruppen (max. 6 Personen pro Gruppe)",
+        "Tägliche soziale Aktivitäten"
+      ]
+    }
+  },
+  "beachCamp1": {
+    "life": {
+      "title": "Leben im The Surfer Beach Camp",
+      "body": "Das The Surfer Beach Camp ist unser Flaggschiff – direkt am Strand von Weligama mit direktem Zugang zu einigen der besten anfängerfreundlichen Wellen Sri Lankas. Hier treffen Surf-Energie, soziale Begegnungen und entspanntes Inselleben aufeinander.<br/><br/>Von Sonnenaufgangs-Yoga und täglichen Surfstunden bis zu Abendessen am Strand und Jam-Sessions auf der Dachterrasse: Das Leben im The Surfer Beach Camp folgt dem Rhythmus des Ozeans. Mit 6× Tripadvisor Travelers’ Choice Awards und einer treuen internationalen Community zählen wir zu den vertrauenswürdigsten Surf-Erlebnissen Sri Lankas.<br/><br/>Komm allein, zu zweit oder mit Freunden – und geh mit salziger Haut, neuen Surf-Skills und Erinnerungen fürs Leben."
+    }
+  },
+  "reviews": {
+    "title": "Bewertungen",
+    "items": [
+      {
+        "img": "/review.png",
+        "name": "Koen Slinger",
+        "date": "2025-04-16",
+        "description": "Wir hatten eine großartige Zeit. Tolle Atmosphäre, freundliches und hilfsbereites Team, super Unterkunft – alles ohne Stress organisiert..."
+      },
+      {
+        "img": "/review.png",
+        "name": "Brittany Jaide",
+        "date": "2025-03-21",
+        "description": "Ich habe meinen Aufenthalt geliebt! Toller Service und freundliches Personal. Die Surflehrer waren sehr kompetent und aufmerksam – und die Abende boten viel Abwechslung..."
+      },
+      {
+        "img": "/review.png",
+        "name": "Sanya Shah",
+        "date": "2024-02-03",
+        "description": "Einfach unglaublich! Ich bin zum ersten Mal in Weligama gesurft. Die Lehrer hier sind fantastisch – besonders Emily, Nadiv, Maya und Matty. Sie haben mir sehr geholfen..."
+      },
+      {
+        "img": "/review.png",
+        "name": "Rachel Rife",
+        "date": "2024-01-19",
+        "description": "Wir haben unseren Aufenthalt geliebt! Das Team und die Lehrer waren super freundlich und wir sind in einer Woche deutlich besser geworden. Preis und Qualität passen..."
+      }
+    ]
+  },
+  "waveCamp": {
+    "heading": "Demnächst: The Wave Surf Camp",
+    "description": "Unser anderes Surf-Camp in Sri Lanka geht bald online. Bleib dran!",
+    "cta": "JETZT BUCHEN",
+    "slidesAlt": [
+      "Surfer am Strand",
+      "Surftraining",
+      "Strandaktivitäten",
+      "Surfstunde"
+    ],
+    "aria": {
+      "prev": "Vorherige Folie",
+      "next": "Nächste Folie"
+    }
+  },
+  "surferWay": {
+    "heading": "Der Surfer-Weg",
+    "subheading": "4 Werte, nach denen wir leben",
+    "pillars": [
+      { "title": "Gemeinschaft zuerst", "description": "Wir sind mehr als ein Camp — wir sind eine Familie." },
+      { "title": "Respekt vor dem Ozean", "description": "Wir unterrichten mit Achtsamkeit für die Natur und die lokale Kultur." },
+      { "title": "Fortschritt mit Sinn", "description": "Surferinnen und Surfer auf jedem Niveau verdienen Coaching, das sie wirklich voranbringt." },
+      { "title": "Spaß gehört zum Unterricht", "description": "Wir glauben, dass Freude bessere Surferinnen und Surfer macht." }
+    ],
+    "aria": { "section": "Bereich „The Surfer Way“" }
+  },
+  "ts2Camp": {
+    "hero": {
+      "title": "TS2 Camp – Sri Lanka",
+      "description": "Eine ruhigere, preisgünstigere Version unseres Hauptcamps, nur wenige Minuten vom Surfspot entfernt. Ideal für Alleinreisende und alle, die eine entspannte Atmosphäre suchen.",
+      "cta": "JETZT BUCHEN",
+      "slider": {
+        "alts": [
+          "Restaurant des TS2 Camps",
+          "Gemeinschaftsbereich des TS2 Camps mit Carrom",
+          "TS2-Camp-Gebäude",
+          "Küste Sri Lankas"
+        ],
+        "altFallback": "TS2-Camp-Bild"
+      }
+    }
+  },
+  "common": {
+    "prev": "Zurück",
+    "next": "Weiter"
+  },
+  "surfingJourney": {
+    "heading": "Unsere ultimative Surf-Reise rund um die Welt",
+    "body": "Von den sonnenverwöhnten Stränden Sri Lankas bis zu den lebendigen Küsten Marokkos – unsere Surfcamps in Sri Lanka und Marokko bieten dir Weltklasse-Wellen und unvergessliche Erlebnisse. <br /> An zwei der besten Surfspots der Welt dreht sich bei uns alles um gute Wellen, <br /> gute Vibes und gute Zeiten. Egal, ob du deine erste Welle jagst oder das nächste Level erreichen willst, <br /> bei uns findest du den perfekten Mix aus Abenteuer, Entspannung und Surf-Progress. Mit epischen Stränden, Weltklasse-Breaks und einem Team, das sich wie Familie anfühlt, <br /> ist The Surfer Surfcamp dein Zuhause auf dem Wasser. Surf mit uns und werde Teil einer globalen Surf-Community."
+  },
+  "surfingJourneyIcons": {
+    "pillars": [
+      "ISA-zertifizierte Surflehrer",
+      "Videoanalyse",
+      "Surfspot direkt vor dem Camp",
+      "Für Anfänger bis Fortgeschrittene"
+    ]
+  },
+  "chooseSurfCamp1": {
+    "heading": "Warum The Surfer Surf Camps wählen?",
+    "subheading": "Vier Säulen, auf die wir stolz sind:",
+    "pillars": [
+      {
+        "title": "Prämiert & am meisten bewertet",
+        "description": "8. Travellers’ Choice Award in Folge bei Tripadvisor. Das Surfcamp mit den meisten Bewertungen auf Google."
+      },
+      {
+        "title": "International zertifizierte ISA-Instructors",
+        "description": "Erfahrene lokale und internationale Coaches, die die Wellen besser kennen als jeder andere."
+      },
+      {
+        "title": "Direkt am Strand",
+        "description": "Aufwachen mit Meeresrauschen – in Sri Lanka und Marokko."
+      },
+      {
+        "title": "Freunde fürs Leben",
+        "description": "Von Sunset-Sessions bis Chill-Abenden: Unsere soziale Atmosphäre verbindet Reisende."
+      }
+    ],
+    "aria": {
+      "section": "Bereich: Warum The Surfer Surf Camps"
+    }
+  },
+  
+  "ts2Diff": {
+    "heading": "Unterschied zwischen Beach Camp und TS2 Camp",
+    "paragraphs": [
+      "Die wichtigsten Unterschiede sind Lage und Zimmerstandard.",
+      "Beach Camp: direkt am Meer mit Pool. Standard-Privatzimmer mit Klimaanlage und eigenem Bad mit Warmwasser.",
+      "TS2 Camp: ca. 5 Minuten Fahrt vom Beach Camp. Schlichte Privatzimmer mit Ventilator und eigenem Bad mit Warmwasser.",
+      "Alle Surfkurse, Yoga-Sessions, Abendessen und Events finden im Beach Camp statt. Ihr könnt den Tag dort verbringen und im TS2 übernachten.",
+      "Wir erstatten 1.000 LKR pro Zimmer oder Bett im Schlafsaal und Tag als Transportausgleich zwischen den Camps."
+    ],
+    "cta": "Pakete & Preise ansehen",
+    "aria": {
+      "section": "Bereich: Unterschied zwischen Beach Camp und TS2 Camp",
+      "cta": "Zu Paketen und Preisen des Beach Camps"
+    }
+  },
+  "activities1": {
+    "heading": "Aktivitäten",
+    "titles": [
+      "Erlebe einen unvergesslichen Surfurlaub",
+      "Lerne Menschen aus aller Welt kennen",
+      "Finde Freunde fürs Leben",
+      "Bootsparty"
+    ],
+    "aria": {
+      "section": "Bereich Aktivitäten"
+    }
+  }
+}
