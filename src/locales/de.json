@@ -1260,5 +1260,126 @@
       "l2": "Das Beach Camp liegt direkt am Strand und hat einen Pool. Die TS2-Zimmer sind einfache, zweckmäßige Privatzimmer mit Ventilator und eigenem Bad mit Warmwasser. Die Zimmer im Beach Camp sind Standard-Privatzimmer mit Klimaanlage, eigenem Bad und Warmwasser. Das TS2 Camp liegt etwa 5 Minuten Fahrt vom Beach Camp entfernt. Auch wenn du TS2 Weligama buchst, finden all deine Surfstunden, Yoga, Abendessen und Events im Beach Camp statt! Als Transportausgleich werden 1000 Rupien pro Tag und pro Zimmer bzw. Bett gezahlt, um zwischen den Camps zu pendeln. Du kannst den ganzen Tag im Beach Camp verbringen und zum Schlafen einfach ins TS2 zurückkehren!"
     },
     "bookNow": "Jetzt buchen"
+  },
+  
+  "lifeAtSurfStyle": {
+    "title": "Leben im The Surfer SurfStyle Camp",
+    "body": {
+      "p1": "Hoch über den sonnenverwöhnten Küsten von Tamraght verbindet das The Surfer Style Camp erstklassige Wellen, entspanntes Küstenleben und einen lebendigen Gemeinschaftsgeist zu einer unvergesslichen marokkanischen Auszeit. Mit jahrelanger Surfhospitality und unzähligen glücklichen Gästen aus aller Welt ist unser Camp nicht nur eine Unterkunft – es ist dein Zuhause am Meer.",
+      "p2": "Jeder Tag folgt dem Rhythmus der Gezeiten. Beginne den Morgen mit Meeresduft und dem Ruf der Wellen und brich anschließend zu Surfsessions auf, geführt von erfahrenen lokalen und internationalen Coaches. Zwischen den Sessions dehnst du dich beim Yoga, genießt die Sonne auf unserer Dachterrasse oder erkundest Tamraghts Küstenwege und lebhafte Märkte. Abends erwacht das Leben mit Sonnenuntergängen auf dem Rooftop, gemeinsamen Mahlzeiten, Musik und dem Lachen neuer Freundschaften.",
+      "p3": "Von unserem herzlichen Team und dem Panoramablick aufs Meer bis zur einzigartigen Mischung aus Surfkultur und marokkanischer Gastfreundschaft – im The Surfer Style Camp werden Abenteuer geteilt, Fähigkeiten geschärft und Geschichten in den Sand geschrieben."
+    }
+  },
+  
+  "stayInStyle": {
+    "title": "Wohnen mit Stil – auf Insel-Art",
+    "blurb": "Ob alleinreisender Surfer, strandliebendes Paar oder Gruppe von Wellenjägern – bei uns findest du den passenden Platz. Luftige Zimmer, tropische Details und alles, was du für einen entspannten Aufenthalt nur wenige Schritte vom Meer brauchst. Lässiger Komfort trifft Insel-Style – denn nach einem Tag in den Wellen hat jeder erholsamen Schlaf verdient.",
+    "cards": {
+      "dorm": {
+        "alt": "Gemischtes Mehrbettzimmer",
+        "title": "3-Bett-Mehrbettzimmer",
+        "body": "Das Surf Style Morocco Guest House bietet ein gemütliches Mehrbettzimmer für Surfbegeisterte – ideal, um Marokkos lebendige Kultur und großartige Wellen zu genießen."
+      },
+      "single": {
+        "alt": "Privates Einzelzimmer mit eigenem Bad",
+        "title": "2-Bett-Mehrbettzimmer",
+        "body": "Das Gemeinschaftszimmer im Surf Style Morocco Guest House verbindet Komfort, marokkanisches Lebensgefühl und erstklassiges Surfen zu einem unvergesslichen Camp-Erlebnis."
+      },
+      "double": {
+        "alt": "Privates Doppel-/Zweibettzimmer mit eigenem Bad",
+        "title": "Privates Doppelzimmer",
+        "body": "Das Doppelzimmer des Surf Style Morocco Guest House vereint Komfort, marokkanische Kultur und großartige Surfbedingungen für einen unvergesslichen Aufenthalt."
+      },
+      "triple": {
+        "alt": "Privates Dreibettzimmer mit eigenem Bad",
+        "title": "Privates Doppelzimmer mit Balkon",
+        "body": "Das Doppelzimmer mit Terrasse im Surf Camp Morocco Guest House kombiniert Komfort, marokkanisches Flair und exzellentes Surfen für einen rundum erinnerungswürdigen Aufenthalt."
+      }
+    }
+  },
+  
+  "common3": {
+    "included": "inklusive",
+    "notIncluded": "nicht enthalten"
+  },
+  "moroccoPackage": {
+    "title": "BUCHE DEIN SURF-ERLEBNIS",
+    "subtitle": "FOLGENDES IST IN UNSEREN SURF-PAKETEN ENTHALTEN",
+    "columns": {
+      "yogaSurf": "Yoga & Surfen in Tamraght",
+      "fullSurf": "Surfcoaching (Vollprogramm)",
+      "moderate": "Surf-Guiding (Moderat)"
+    },
+    "rows": {
+      "surfLessons": {
+        "label": "Surfunterricht",
+        "yogaSurf": {
+          "line1": "6 Tage Surfen",
+          "line2": "1 Lektion/Tag (1 Stunde Yoga + Surf-Session)",
+          "line3": "Ausrüstung inklusive (Neoprenanzug & Board)",
+          "line4": "Qualifizierte lokale Coaches",
+          "line5": "Täglicher Transport zu deinem Level passenden Surfspots"
+        },
+        "fullSurf": {
+          "line1": "6 Tage Surfen",
+          "line2": "2 Surf-Sessions/Tag",
+          "line3": "Ausrüstung inklusive (Neoprenanzug & Board)",
+          "line4": "Qualifizierte lokale Coaches",
+          "line5": "Täglicher Transport zu deinem Level passenden Surfspots"
+        },
+        "moderate": {
+          "line1": "6 Tage Guiding",
+          "line2": "Professionelle, kompetente Surf-Guides",
+          "line3": "Täglicher Transport zu deinem Level passenden Surfspots"
+        }
+      },
+      "yoga": {
+        "label": "Yoga",
+        "yogaSurf": "Täglich Sunrise- oder Sunset-Yoga (1 Stunde/Session)"
+      },
+      "accommodation": "Unterkunft",
+      "breakfast": "Tägliches Frühstück",
+      "lunch": "Tägliches Mittagessen",
+      "dinner": "Tägliches Abendessen",
+      "bbq": "BBQ-Abend – 1× pro Woche draußen",
+      "surfTheory": "Surf-Theorieunterricht",
+      "videoAnalysis": "Videoanalyse",
+      "wifi": "Kostenloses WLAN",
+      "water": "Trinkwasser",
+      "cleaning": "Tägliche Zimmerreinigung",
+      "pickup": "Abholung (vom Flughafen Agadir oder Busbahnhof)",
+      "dayTrip": "Tagesausflug",
+      "dayTripNote1": "(1 Tag Imsouane – Magic Bay Trip)",
+      "dayTripNote2": "(1 Tag Imsouane – Magic Bay Trip)",
+      "dayTripNote3": "(1 Tag Imsouane – Magic Bay Trip)"
+    },
+    "prices": {
+      "perPersonPerWeek": "Pro Person / pro Woche",
+      "shared": {
+        "label": "Mehrbettzimmer",
+        "yogaSurf": "99 € täglich / 598 € wöchentlich",
+        "fullSurf": "83 € täglich / 510 € wöchentlich",
+        "moderate": "80 € täglich / 480 € wöchentlich"
+      },
+      "double": {
+        "label": "Doppelzimmer",
+        "yogaSurf": "100 € täglich / 600 € wöchentlich",
+        "fullSurf": "85 € täglich / 510 € wöchentlich",
+        "moderate": "83 € täglich / 490 € wöchentlich"
+      },
+      "doubleTerrace": {
+        "label": "Doppelzimmer mit Terrasse",
+        "yogaSurf": "103 € täglich / 618 € wöchentlich",
+        "fullSurf": "87 € täglich / 522 € wöchentlich",
+        "moderate": "87 € täglich / 522 € wöchentlich"
+      },
+      "doubleSuite": {
+        "label": "Doppelsuite",
+        "yogaSurf": "106 € täglich / 636 € wöchentlich",
+        "fullSurf": "90 € täglich / 540 € wöchentlich",
+        "moderate": "90 € täglich / 540 € wöchentlich"
+      }
+    }
   }
+
 }
