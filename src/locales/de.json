@@ -864,5 +864,88 @@
     "aria": {
       "section": "Bereich Aktivitäten"
     }
+  },
+  "social": {
+    "heading": "FOLGE UNS",
+    "linkText": "Folge uns auf Instagram",
+    "defaultAlt": "Galeriebild {{index}}",
+    "galleryAlts": [
+      "Surfer schneidet über eine saubere Welle",
+      "Freunde lachen am Strand bei Sonnenuntergang",
+      "Surfbrett-Reihe am Ufer",
+      "Rooftop-Chillen zur Goldenen Stunde",
+      "Panorama von der Weligama-Bucht",
+      "Camp-Vibes und Palmen"
+    ],
+    "aria": {
+      "section": "Instagram-Fotogalerie"
+    }
+  },
+
+  "reviews1": {
+    "heading": "Google-Bewertungen",
+    "items": [
+      {
+        "img": "/review.png",
+        "name": "Koen Slinger",
+        "date": "2025-04-16",
+        "description": "Wir hatten eine tolle Zeit. Großartige Atmosphäre, freundliches und hilfreiches Team, hervorragende Unterkunft – alles ist ohne Aufwand organisiert..."
+      },
+      {
+        "img": "/review.png",
+        "name": "Brittany Jaide",
+        "date": "2025-03-21",
+        "description": "Ich habe meinen Aufenthalt geliebt! Toller Service und freundliches Personal. Die Surflehrer waren sehr kompetent und aufmerksam – und ich mochte die Vielfalt der Abendaktivitäten..."
+      },
+      {
+        "img": "/review.png",
+        "name": "Sanya Shah",
+        "date": "2024-02-03",
+        "description": "Einfach unglaublich! Ich bin in Weligama zum ersten Mal gesurft. Die Lehrer sind großartig – besonders Emily, Nadiv, Maya und Matty. Sie haben mir wirklich geholfen..."
+      },
+      {
+        "img": "/review.png",
+        "name": "Rachel Rife",
+        "date": "2024-01-19",
+        "description": "Wir haben unseren Aufenthalt geliebt! Das Team und die Lehrer waren sehr freundlich, und wir wurden in einer Woche deutlich besser. Der Preis passt zur Qualität von Essen/Zimmern und..."
+      }
+    ],
+    "badges": {
+      "years": [2018, 2021, 2022, 2023, 2024, 2025],
+      "heading": "5-MAL TRAVELERS’ CHOICE AWARD",
+      "alt": "Tripadvisor Travelers’ Choice {{year}}"
+    },
+    "kpis": {
+      "google": "Google-Bewertungen 1000+",
+      "tripadvisor": "Tripadvisor Nr. 1"
+    },
+    "awardNote": "Seit 5 Jahren in Folge von Tripadvisor für herausragenden Service und Gästetzufriedenheit ausgezeichnet."
+  },
+
+  "nav": {
+    "aria": {
+      "main": "Hauptnavigation",
+      "home": "Zur Startseite",
+      "toggleMenu": "Mobiles Menü umschalten",
+      "destinationMenu": "Ziel-Menü",
+      "language": "Sprache ändern"
+    },
+    "home": "START",
+    "destination": "REISEZIELE",
+    "activities": "AKTIVITÄTEN",
+    "rates": "PREISE",
+    "faq": "FAQ",
+    "blogs": "BLOGS",
+    "contact": "KONTAKT",
+    "bookNow": "JETZT BUCHEN",
+    "sections": {
+      "countries": "LÄNDER",
+      "originals": "THE SURFER ORIGINAL CAMPS",
+      "partner": "THE SURFER PARTNER CAMPS"
+    },
+    "countries": {
+      "srilanka": "Surf-Camps Sri Lanka",
+      "morocco": "Surf-Camps Marokko"
+    }
   }
 }

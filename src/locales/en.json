@@ -862,5 +862,86 @@
     "aria": {
       "section": "Activities section"
     }
+  },
+  "social": {
+    "heading": "FOLLOW US",
+    "linkText": "Follow us on Instagram",
+    "defaultAlt": "Gallery image {{index}}",
+    "galleryAlts": [
+      "Surfer cutting across a clean wave",
+      "Friends laughing on the beach at sunset",
+      "Board lineup by the shore",
+      "Rooftop chill at golden hour",
+      "Wide shot of Weligama bay",
+      "Camp vibes and palm trees"
+    ],
+    "aria": {
+      "section": "Instagram photo gallery"
+    }
+  },
+  "reviews1": {
+    "heading": "Google Reviews",
+    "items": [
+      {
+        "img": "/review.png",
+        "name": "Koen Slinger",
+        "date": "2025-04-16",
+        "description": "We had a blast. Great atmosphere, friendly and helpful staff, great accommodation where everything is set up for a stay without any hassle..."
+      },
+      {
+        "img": "/review.png",
+        "name": "Brittany Jaide",
+        "date": "2025-03-21",
+        "description": "Loved my stay here! Great service and friendly staff. The surfing instructors were super knowledgeable and caring and I loved the variety of night..."
+      },
+      {
+        "img": "/review.png",
+        "name": "Sanya Shah",
+        "date": "2024-02-03",
+        "description": "Truly amazing! I surfed for the first time in Weligama. The instructors here are incredible—especially Emily, Nadiv, Maya, and Matty. They helped me..."
+      },
+      {
+        "img": "/review.png",
+        "name": "Rachel Rife",
+        "date": "2024-01-19",
+        "description": "We loved our stay! The staff and instructors were so kind and we improved a lot over the week. The price matches the quality of food/rooms and the..."
+      }
+    ],
+    "badges": {
+      "years": [2018, 2021, 2022, 2023, 2024, 2025],
+      "heading": "5-TIME TRAVELERS’ CHOICE AWARD",
+      "alt": "Tripadvisor Travelers’ Choice {{year}}"
+    },
+    "kpis": {
+      "google": "Google Reviews 1000+",
+      "tripadvisor": "Tripadvisor No. 1"
+    },
+    "awardNote": "Proudly recognized by Tripadvisor for 5 consecutive years for outstanding service and guest satisfaction."
+  },
+  "nav": {
+    "aria": {
+      "main": "Main navigation",
+      "home": "Go to home",
+      "toggleMenu": "Toggle mobile menu",
+      "destinationMenu": "Destination menu",
+      "language": "Change language"
+    },
+    "home": "HOME",
+    "destination": "DESTINATION",
+    "activities": "ACTIVITIES",
+    "rates": "RATES",
+    "faq": "FAQ",
+    "blogs": "BLOGS",
+    "contact": "CONTACT",
+    "bookNow": "BOOK NOW",
+    "sections": {
+      "countries": "COUNTRIES",
+      "originals": "THE SURFER ORIGINAL CAMPS",
+      "partner": "THE SURFER PARTNERED CAMP"
+    },
+    "countries": {
+      "srilanka": "Surf Camps Sri Lanka",
+      "morocco": "Surf Camps Morocco"
+    }
   }
 }
