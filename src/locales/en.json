@@ -986,5 +986,209 @@
   "faqPage": {
     "metaTitle": "FAQ - The Surfer",
     "heading": "FAQ"
+  },
+
+  "header": {
+    "title": "The Surfer Surf Camps Sri Lanka",
+    "aria": { "section": "Header section" }
+  },
+
+  "headerTs2": {
+    "title": "The Surfer TS2 Camp",
+    "tagline": "Your ultimate surf camp experience",
+    "aria": { "section": "TS2 header section" }
+  },
+
+  "lifeTs2": {
+    "aria": { "section": "Life at TS2 section" },
+    "title": "Life at TS2 Surf Camp",
+    "intro": "Our TS2 Weligama surf camp located just 200 meters away from the other side of the bay in Weligama beach and 10 minutes walking away from the city center.",
+    "diffTitle": "What is the Difference between Beach Camp and TS2 Camp?",
+    "points": [
+      "Main difference is the location and the room standard",
+      "Beach camp is located right next to the beach with a swim pool.",
+      "TS2 camp rooms are of basic standard, simple private rooms with a fan and a hot water ensuite bathroom.",
+      "Beach camp rooms are Standard private rooms with air conditioning, an ensuite bathroom, and hot water",
+      "TS2 camp is located 05 minutes' ride away from the beach camp. Even though you book TS2 Weligama, all your surf lessons, yoga, Breakfast, dinner, and all events will take place at the beach camp",
+      "Transport will be paid at 1000 rupees per day per bed and per room to travel between the two camps as a travel compensation! No other surf camp in the area beats our TS2 package rates! You pay less, but still get the full beach camp experience. Sleep comfortably at TS2, best of both worlds, without the high price tag!"
+    ]
+  },
+  
+  "ts2Gallery": {
+    "aria": { "section": "TS2 Camp image gallery" },
+    "alt": {
+      "rooftop": "Beach Camp Rooftop",
+      "playarea": "Play Area",
+      "building": "Beach Camp Building"
+    },
+     
+  "packageTable": {
+    "title": "BOOK YOUR SURF EXPERIENCE",
+    "subtitle": "FOLLOWING INCLUDED IN OUR SURF PACKAGES",
+    "headers": {
+      "surfAndYoga": "Surf And Yoga Package",
+      "fullSurf": "Full Surf Package",
+      "moderateSurf": "Moderate Surf Package"
+    },
+    "rows": {
+      "surfLessons": {
+        "name": "Surf Lessons",
+        "surfAndYoga": "06 Surf Lessons or Guiding / Week",
+        "fullSurf": "11 Surf Lessons",
+        "moderateSurf": "06 Surf Lessons or Guiding"
+      },
+      "yoga": {
+        "name": "Yoga",
+        "surfAndYoga": "Sunrise or Sunset Everyday",
+        "fullSurf": "02 Sessions / Week",
+        "moderateSurf": "02 Sessions / Week"
+      },
+      "nights": { "name": "07 nights accommodation" },
+      "breakfast": { "name": "Breakfast Everyday" },
+      "dinner": { "name": "Dinner - Everyday except Sunday" },
+      "surfTheory": { "name": "Surf Theory Classes" },
+      "videoAnalysis": { "name": "Video Analysis" },
+      "dailySocial": { "name": "Daily Social Activities" }
+    },
+    "accommodation": {
+      "dorm": {
+        "name": "Mixed Dormitory Bed",
+        "note": "Max ( 05 people )"
+      },
+      "single": {
+        "name": "Private Single Room",
+        "note": "Per Week"
+      },
+      "doubleTwin": {
+        "name": "Private Double / Twin Room",
+        "note": "Per Person / Per Week"
+      },
+      "triple": {
+        "name": "Private Triple Room",
+        "note": "Per Person / Per Week"
+      }
+    }
   }
+  
+},
+
+  "comfortableStays1": {
+    "title": "Rooms at TS2 Surf Camp",
+    "description": "All rooms at TS2 are thoughtfully designed for comfort and simplicity. Whether you’re sharing a dorm or relaxing in a private room, you’ll have everything you need to feel rested and ready to surf.",
+    "alt": {
+      "mixedDorm": "Mixed Dorm Room",
+      "single": "Private Single Room",
+      "double": "Private Double / Twin Room",
+      "triple": "Private Triple Room"
+    },
+    "cards": {
+      "mixed": {
+        "title": "Mixed Dormitory",
+        "body": "Great for solo travelers who love meeting people."
+      },
+      "single": {
+        "title": "Private Single Room Ensuite",
+        "body": "Your personal surf haven — perfect for solo travelers craving privacy and comfort, for a peaceful night’s rest after a day riding the waves and soaking up the sun."
+      },
+      "double": {
+        "title": "Private Double / Twin Room Ensuite",
+        "body": "For solo travelers, couples or friends who want privacy with style for a good night’s sleep."
+      },
+      "triple": {
+        "title": "Private Triple Room Ensuite",
+        "body": "For a group of friends or a small family — shared moments and smooth comfort with plenty of space."
+      }
+    },
+    
+  "perfect": {
+    "title": "Why Morocco Is Perfect for Surfers",
+    "body": {
+      "p1": "Morocco is one of the most diverse surf destinations in the world, offering consistent Atlantic swells, warm hospitality, and rich cultural immersion. From world-class point breaks to beginner-friendly beach breaks, this coast is a playground for surfers of all levels.",
+      "p2": "Taghazout and its surrounding areas have become a surf haven thanks to perfect waves, laid-back lifestyle, and breathtaking desert-meets-ocean views. You’ll enjoy sunny skies, welcoming locals, vibrant souks, and that magical Moroccan energy that makes every surf session feel like an adventure.",
+      "p3": "Even though our camp is just a short walk from the beach, you’re never far from the action. We believe the best surf journeys happen when you balance ocean time with exploration, relaxation, and unforgettable cultural experiences."
+    }
+  }
+  },
+  "moroccoHeader": {
+    "title": "The Surfer Surf Camp Morocco"
+  },
+
+  "chooseSurfCamp2": {
+    "heading": "Why Choose The Surfer Surf Camps?",
+    "pillars": [
+      {
+        "title": "08th Consecutive Traveler Choise Awards on Tripadvisor. Most reviewd surf camp in Google ",
+        "description": "Recognized globally for excellence in surf experiences and service."
+      },
+      {
+        "title": "International ISA certified Instructors",
+        "description": "Trained surfing from the region who know the waves better than anyone."
+      },
+      {
+        "title": "Beachfront Locations",
+        "description": "Wake up to the waves in both Sri Lanka and Morocco."
+      },
+      {
+        "title": "Make Friends For Life",
+        "description": "From sunset jams to surfy hangouts, our social vibes bring travelers together — good times, good crew, and friendships that ride beyond the waves."
+      }
+    ]
+  },
+  
+  "common1": {
+    "bookNow": "BOOK NOW"
+  },
+  "surfStyle": {
+    "hero": {
+      "title": "The Surfer SurfStyle Camp – Morocco",
+      "description": "Located in a peaceful area just a short walk from the beach, this camp blends traditional Moroccan charm with surf, yoga, and comfort. Expect rooftop views, cultural meals, and a more grounded surf vibe.",
+      "slider": {
+        "alts": [
+          "Surfers on beach",
+          "Surf training",
+          "Beach activities",
+          "Surf lesson"
+        ]
+      }
+    }
+  },
+  
+  "common2": {
+    "bookNow": "BOOK NOW"
+  },
+  "moroccoPackages": {
+    "includedTitle": "Following Included in the package",
+    "package": {
+      "title": "Morocco Surf Package",
+      "subtitle": "Beginners, Level 01 / Level 02 / Intermediate",
+      "description": "Perfect for beginner to intermediate surfers looking for a full surf and cultural immersion on the Atlantic coast of Morocco.",
+      "features": [
+        "7 nights accommodation (shared or private rooms)",
+        "Daily breakfast, packed lunch with fresh fruits, afternoon snack & tea, and Moroccan dinner",
+        "1 weekly BBQ night (hosted outdoors)",
+        "6 days of surf coaching",
+        "Daily surf lessons with certified local instructors",
+        "Surfboard and wetsuit hire (included throughout stay)",
+        "Daily transport to surf spots tailored to your level",
+        "1 local day trip to discover the region (e.g., Paradise Valley)",
+        "Unlimited drinking water",
+        "Free WiFi across the camp",
+        "Daily room cleaning service",
+        "Airport or bus station transfers from Agadir",
+        "Friendly, dedicated team available 24/7"
+      ]
+    }
+  },
+  "moroccoActivities": {
+    "title": "ACTIVITIES",
+    "items": {
+      "camelRide": "Camel Ride in Tamraght Agadir",
+      "sandboarding": "Sandboarding in Taghazout Agadir",
+      "paradiseValley": "Paradise Valley Atlas Mountain & Berber Breakfast",
+      "horseback": "Horseback Riding in Tamraght",
+      "skateboarding": "Skateboarding in Tamraght"
+    }
+  }
+
+
 }
