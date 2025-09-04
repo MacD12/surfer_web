@@ -943,5 +943,43 @@
       "srilanka": "Surf Camps Sri Lanka",
       "morocco": "Surf Camps Morocco"
     }
+  },
+  "blogs": {
+    "heading": "BLOGS",
+    "aria": {
+      "open": "Open blog post: {{title}}"
+    },
+    "items": [
+      {
+        "img": "/b1.jpg",
+        "title": "5 health benefits of surfing that are just out of this world",
+        "href": "/blogs/health-benefits-of-surfing",
+        "ariaLabel": "Open blog post: 5 health benefits of surfing that are just out of this world"
+      },
+      {
+        "img": "/blog-2.jpg",
+        "title": "Surf Ethics — 5 rules every beginner should know",
+        "href": "/blogs/surf-ethics-5-rules",
+        "ariaLabel": "Open blog post: Surf Ethics — 5 rules every beginner should know"
+      },
+      {
+        "img": "/blog-3.jpg",
+        "title": "The Surfer — Brace yourself for an ultimate Surf & Yoga experience",
+        "href": "/blogs/the-surfer-surf-and-yoga",
+        "ariaLabel": "Open blog post: The Surfer — Brace yourself for an ultimate Surf & Yoga experience"
+      },
+      {
+        "img": "/b4.jpg",
+        "title": "5 basic surfing tips for beginners",
+        "href": "/blogs/5-basic-surfing-tips",
+        "ariaLabel": "Open blog post: 5 basic surfing tips for beginners"
+      },
+      {
+        "img": "/b5.jpg",
+        "title": "What are surfboard fins — and how many types are there?",
+        "href": "/blogs/surfboard-fins-guide",
+        "ariaLabel": "Open blog post: What are surfboard fins — and how many types are there?"
+      }
+    ]
   }
 }

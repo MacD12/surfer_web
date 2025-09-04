@@ -947,5 +947,44 @@
       "srilanka": "Surf-Camps Sri Lanka",
       "morocco": "Surf-Camps Marokko"
     }
+  },
+  
+  "blogs": {
+    "heading": "BLOGS",
+    "aria": {
+      "open": "Blogartikel öffnen: {{title}}"
+    },
+    "items": [
+      {
+        "img": "/b1.jpg",
+        "title": "5 gesundheitliche Vorteile des Surfens, die kaum zu glauben sind",
+        "href": "/de/blogs/gesundheitliche-vorteile-surfen",
+        "ariaLabel": "Blogartikel öffnen: 5 gesundheitliche Vorteile des Surfens, die kaum zu glauben sind"
+      },
+      {
+        "img": "/blog-2.jpg",
+        "title": "Surf-Etikette — 5 Regeln, die jede:r Anfänger:in kennen sollte",
+        "href": "/de/blogs/surf-etikette-5-regeln",
+        "ariaLabel": "Blogartikel öffnen: Surf-Etikette — 5 Regeln, die jede:r Anfänger:in kennen sollte"
+      },
+      {
+        "img": "/blog-3.jpg",
+        "title": "The Surfer — Das ultimative Surf- & Yoga-Erlebnis",
+        "href": "/de/blogs/the-surfer-surf-und-yoga",
+        "ariaLabel": "Blogartikel öffnen: The Surfer — Das ultimative Surf- & Yoga-Erlebnis"
+      },
+      {
+        "img": "/b4.jpg",
+        "title": "5 grundlegende Surf-Tipps für Anfänger:innen",
+        "href": "/de/blogs/grundlegende-surf-tipps",
+        "ariaLabel": "Blogartikel öffnen: 5 grundlegende Surf-Tipps für Anfänger:innen"
+      },
+      {
+        "img": "/b5.jpg",
+        "title": "Was sind Surfboard-Finnen — und welche Typen gibt es?",
+        "href": "/de/blogs/surfboard-finnen-guide",
+        "ariaLabel": "Blogartikel öffnen: Was sind Surfboard-Finnen — und welche Typen gibt es?"
+      }
+    ]
   }
 }
