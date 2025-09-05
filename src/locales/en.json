@@ -1070,7 +1070,7 @@
     }
   }
   
-},
+ },
 
   "comfortableStays1": {
     "title": "Rooms at TS2 Surf Camp",
@@ -1108,7 +1108,7 @@
       "p3": "Even though our camp is just a short walk from the beach, you’re never far from the action. We believe the best surf journeys happen when you balance ocean time with exploration, relaxation, and unforgettable cultural experiences."
     }
   }
-  },
+ },
   "moroccoHeader": {
     "title": "The Surfer Surf Camp Morocco"
   },
@@ -1494,5 +1494,15 @@
         "body": "Drift off in a clean, comfortable room with the ocean breeze as your lullaby. Wake up refreshed and ready for another day of surfing, adventure, and unforgettable moments in Morocco."
       }
     }
+  },
+
+  "perfect": {
+    "title": "Why Morocco Is Perfect for Surfers",
+    "body": {
+      "p1": "Morocco is one of the most diverse surf destinations in the world, offering consistent Atlantic swells, warm hospitality, and rich cultural immersion. From world-class point breaks to beginner-friendly beach breaks, this coast is a playground for surfers of all levels.",
+      "p2": "Taghazout and its surrounding areas have become a surf haven thanks to perfect waves, laid-back lifestyle, and breathtaking desert-meets-ocean views. You’ll enjoy sunny skies, welcoming locals, vibrant souks, and that magical Moroccan energy that makes every surf session feel like an adventure.",
+      "p3": "Even though our camp is just a short walk from the beach, you’re never far from the action. We believe the best surf journeys happen when you balance ocean time with exploration, relaxation, and unforgettable cultural experiences."
+    }
   }
+
 }
