@@ -68,6 +68,11 @@ const Navbar = () => {
     }
   }, [isDestinationOpen])
 
+  // 🔝 Always start new route at top (the single requested change)
+  useEffect(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: 'auto' })
+  }, [location.pathname, location.search])
+
   // Animated (Level-Up) Hamburger
   const HamburgerButton = () => (
     <button
