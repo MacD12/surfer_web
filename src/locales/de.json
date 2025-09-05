@@ -1027,7 +1027,7 @@
     }
   },
   
-  "packageTable": {
+  "packageTable1": {
     "title": "BUCHE DEIN SURFERLEBNIS",
     "subtitle": "FOLGENDES IST IN UNSEREN SURF-PAKETEN ENTHALTEN",
     "headers": {
@@ -1423,6 +1423,54 @@
       "p1": "Marokko ist eines der vielfältigsten Surfziele der Welt: beständige Atlantik-Swells, herzliche Gastfreundschaft und eine reiche kulturelle Erfahrung. Von erstklassigen Pointbreaks bis zu anfängerfreundlichen Beachbreaks – diese Küste ist ein Spielplatz für Surfer aller Levels.",
       "p2": "Taghazout und die umliegenden Orte sind dank perfekter Wellen, entspanntem Lebensstil und atemberaubenden Wüsten-trifft-Meer-Panoramen zu einem Surfparadies geworden. Dich erwarten Sonne, offene Menschen, lebhafte Souks und jene besondere marokkanische Energie, die jede Session zum Abenteuer macht.",
       "p3": "Unser Camp liegt nur einen kurzen Spaziergang vom Strand entfernt – und doch bist du immer nah am Geschehen. Wir glauben, dass die besten Surftrips entstehen, wenn du Zeit im Meer mit Entdecken, Erholen und unvergesslichen Kulturerlebnissen verbindest."
+    }
+  },
+  
+  "packageTable": {
+    "title": "BUCHE DEIN SURFERLEBNIS",
+    "subtitle": "FOLGENDES IST IN UNSEREN SURF-PAKETEN ENTHALTEN",
+    "headers": {
+      "surfAndYoga": "Surf- und Yoga-Paket",
+      "fullSurf": "Komplettes Surf-Paket",
+      "moderateSurf": "Moderates Surf-Paket"
+    },
+    "rows": {
+      "surfLessons": {
+        "name": "Surfunterricht",
+        "surfAndYoga": "6 Surfstunden oder Guiding / Woche",
+        "fullSurf": "11 Surfstunden",
+        "moderateSurf": "6 Surfstunden oder Guiding"
+      },
+      "yoga": {
+        "name": "Yoga",
+        "surfAndYoga": "Sonnenaufgangs- oder Sonnenuntergangseinheit täglich",
+        "fullSurf": "2 Einheiten / Woche",
+        "moderateSurf": "2 Einheiten / Woche"
+      },
+      "nights": { "name": "7 Übernachtungen" },
+      "breakfast": { "name": "Täglich Frühstück" },
+      "dinner": { "name": "Abendessen – täglich außer sonntags" },
+      "surfTheory": { "name": "Surf-Theorieunterricht" },
+      "videoAnalysis": { "name": "Videoanalyse" },
+      "dailySocial": { "name": "Tägliche soziale Aktivitäten" }
+    },
+    "accommodation": {
+      "dorm": {
+        "name": "Gemischtes Schlafsaalbett",
+        "note": "Max. (5 Personen)"
+      },
+      "single": {
+        "name": "Privates Einzelzimmer",
+        "note": "Pro Woche"
+      },
+      "doubleTwin": {
+        "name": "Privates Doppel-/Zweibettzimmer",
+        "note": "Pro Person / pro Woche"
+      },
+      "triple": {
+        "name": "Privates Dreibettzimmer",
+        "note": "Pro Person / pro Woche"
+      }
     }
   }
 
