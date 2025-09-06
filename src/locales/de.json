@@ -504,11 +504,6 @@
         "mapUrl": "https://maps.google.com/?q=Main%20Street%20Weligama%2081700"
       },
       {
-        "title": "THE WAVE SURF CAMP",
-        "lines": ["Kommt bald"],
-        "icon": "location"
-      },
-      {
         "title": "THE SURFER STYLE – MAROKKO",
         "lines": ["Tamraght,", "Agadir 80023"],
         "icon": "location",
@@ -1425,7 +1420,7 @@
       "p3": "Unser Camp liegt nur einen kurzen Spaziergang vom Strand entfernt – und doch bist du immer nah am Geschehen. Wir glauben, dass die besten Surftrips entstehen, wenn du Zeit im Meer mit Entdecken, Erholen und unvergesslichen Kulturerlebnissen verbindest."
     }
   },
-  
+
   "packageTable": {
     "title": "BUCHE DEIN SURFERLEBNIS",
     "subtitle": "FOLGENDES IST IN UNSEREN SURF-PAKETEN ENTHALTEN",
